@@ -1,0 +1,169 @@
+<channels>
+    <channels_info>
+      <title>[COLOR red]VinPlay[/COLOR]</title>
+      <genre>IPTV</genre>
+      <description>LISTA DE CANALES</description>
+      <thumbnail>https://k61.kn3.net/6/0/2/1/B/D/21F.jpg</thumbnail>
+      <fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+      <date>16.06.2017</date>
+      <credits>Gracias a VinPlay</credits>
+    </channels_info>
+<channels>
+
+ 
+<channel>
+      <name>[COLOR cyan][B][/COLOR][COLOR red]                                           Bienvenidos a VinPlay[/COLOR][/B]</name>
+  <thumbnail>https://k61.kn3.net/6/0/2/1/B/D/21F.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+ 
+   
+ 
+ 
+ 
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][/COLOR][COLOR light blue]                            Ultima Actualizacion:[/COLOR][COLOR yellow] 20[/COLOR] - JUNIO - 2017[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
+  <thumbnail>http://update.gemicar.net/Content/qu/images/LogoQuickUpdate.gif</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+ 
+ 
+ 
+
+
+ <channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Movistar + [/COLOR]</name>
+  <thumbnail>https://k61.kn3.net/17148E871.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink></externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Canales Varios Paises [/COLOR]</name>
+  <thumbnail>http://1.bp.blogspot.com/-US3KAauyEa8/UNyoOXdkT_I/AAAAAAAAE8Q/n9EhpOM3ZF4/s1600/tv-channels.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink></externallink>
+</channel>
+  </channels>
+ 
+ 
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Películas[/COLOR]</name>
+  <thumbnail>http://4.bp.blogspot.com/-b84hPge9HWU/U_AGE-nLWaI/AAAAAAAAAfY/T5UHFfvGTCw/s1600/logo-nuevo-6-011-300x300.png</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Peliculas/Menu%20Peliculas.xml</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Series[/COLOR]</name>
+  <thumbnail>https://k61.kn3.net/C442A084A.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com/raw/VG3bNZRD</externallink>
+</channel>
+  </channels>
+  
+  
+  <channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Documentales[/COLOR]</name>
+  <thumbnail>https://isakyn.files.wordpress.com/2015/07/docu.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Documentales/Documentales.xml</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Infantil[/COLOR]</name>
+  <thumbnail>http://www.emprender-facil.com/wp-content/uploads/2015/02/Dibujos-animados-infantiles-Destacada.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Musica[/COLOR]</name>
+  <thumbnail>http://playurbano.com/wp-content/uploads/2016/12/Musica.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://pastebin.com</externallink>
+</channel>
+  </channels>
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Youtube[/COLOR]</name>
+  <thumbnail>https://i.ytimg.com/vi/NlVpLOb_7c0/maxresdefault.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Youtube/Menu%20Youtube.xml</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR blue][COLOR  lime]•  [/COLOR] El Rincón Del Lolo [/COLOR]</name>
+  <thumbnail>https://k61.kn3.net/5/D/A/8/7/6/3D2.jpg</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://raw.githubusercontent.com/lokiyotnt69/ELRINCONDELOLO/master/Baselolo.xml</externallink>
+</channel>
+  </channels>
+
+
+
+
+<channels>
+ 
+<channel>
+      <name>[COLOR orange][COLOR  lime]•  [/COLOR] Zona Test [/COLOR]</name>
+  <thumbnail>http://www.arisoftecuador.com/blog/wp-content/uploads/preguntas-test-examen-teorico.png</thumbnail>
+<fanart>https://k61.kn3.net/0/C/9/7/2/9/89E.png</fanart>
+<link></link>http://ignoreme
+   <externallink>https://raw.githubusercontent.com/VinXeluS/BaseAddons/master/Test/Test.xml</externallink>
+</channel>
+  </channels>
+
+
+</channels>
