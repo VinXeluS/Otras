@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,•   LA1 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://
