@@ -3,6 +3,8 @@
 http://smartiptvspain1.mine.nu:980/movie/plex/uuu/51297.avi
 #EXTINF:-1,Triple X 
 http://smartiptvspain1.mine.nu:980/movie/plex/uuu/51295.mkv
+#EXTINF:-1,Mediterraneo TV - C.Valenciana (VC)
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 #EXTINF:-1,El Barrio  Esencia
 http://smartiptvspain1.mine.nu:980/movie/plex/uuu/45446.mp4
 #EXTINF:-1,despacito
