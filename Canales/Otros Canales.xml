@@ -1,257 +1,554 @@
 #EXTM3U
-
-#EXTINF:-1,Canales Latinos
-
-#EXTINF:-1,Warner Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18d6h97yvzLwjyuH8DQU4qwTyZDHcJX9%2FKoDCZv5IvPxsMMqP7t1X4ve5ThyO38y9KVonlSma04pA%3D%3D
-
-
-#EXTINF:-1,Warner Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Bi%2B6QlnRsHMoDZtQKsi74wzsuFrR59D0rD0TwqZQSrYT9LQ%2FFFAxY0qKB97gUauhBvgMjcJe4ldw%3D%3D
-
-
-#EXTINF:-1,Directv
-https://live10.userapi.com/620007/live/0xhZ4rlAf6U85cch/playlist.m3u8
-
-#EXTINF:-1,Bein Sports Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge505.livesports.pw/live/verbeinsportn24048f7344dc762b8/index.m3u8
-
-
- 
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18AP46ssUZzsUs%2FEasSI4R58emWkf0LoDowectnho0o97o%2BmFZW3FY1rQo8jXq7TeZKDmUpEWJm3A%3D%3D
-
-
-
-#EXTINF:-1,FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge7.telesport.pw/live/foxlatino/index.m3u8
-
-
-#EXTINF:-1,FOXHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge8.telesport.pw/live/foxlatino/index.m3u8
-
-#EXTINF:-1,FOX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX187HqAk6kCATNMlu00cabATfGj9B3ASoYNCLkWir0m2n6xIv1utFtSUpEbhN0ztfH3czWSgEcnPOA%3D%3D
-
-
-#EXTINF:-1,Fox Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18b6ENJ8MMzz%2BNa4Jho%2BAYTJ0A4SUVy%2B0UpbrRAP7xvGWHN0WHkrZjsAQ3uxjth33ETjE7oZauwGQ%3D%3D
-
-#EXTINF:-1,Fox Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FYre57%2FC5DYgnMjhMxMULW5ehbhuH049uMZOqTLdHaopZ2FSueUrlkY5kLEKnRSVg0%2Bc%2FnfxlqqQ%3D%3D
-
-
-#EXTINF:-1,Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B74HfatAGbegemtHu4EekEn%2Bj3L9t9ndKm4Nx4mrWYp3k32fToZVallI0NciqI%2FkdQX2c6Sx%2BOFA%3D%3D
-
-#EXTINF:-1,Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fw537FFTZkpWEg9y8xP5XR2CIV3XTBCLN1Qq7DJAaIcR8yA2%2BcgRoJJ5cn05vcPA1dCfI9nHck0g%3D%3D
-
-
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18LcZPS%2B0%2BS4ePO11S6WSopEpCqdvM3kWm7Y5vStfGmZGUwVXJDoWtFk9zXClirbHV6mIeq1kYTSw%3D%3D
-
-
+#EXTINF:-1,*-*-*-*-*E S P A N A *-*-*-*-*
+#EXTINF:-1,ESPANA- Arte HD
+http://92.62.110.198:8000/play/a00h
+#EXTINF:-1,ESPANA- Arte
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1264.ts
+#EXTINF:-1,ESPANA- SONY
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BgEUPjw00bJp7qpIJOXKpf1B2FLmEsTZkTS91duukkUZC9Foo7v6yDaKBtWCak3alF4Wz1mbwbzQ%3D%3D
+#EXTINF:-1,ESPANA- NOVA HD
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- A3S TV
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- NEOX KIDS
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- ANTENA 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- Noticias 6
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- A3S TV HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPANA- Real Madrid  IPTVultra.com [720x416]
+http://37.187.132.154:5969/live/1104F2CBdb/1104F2CBdb/1524.ts
+#EXTINF:-1,ESPANA- Barca TV  IPTVultra.com [720x576]
+http://163.172.84.45:25461/live/tiryonlter/skypp/1875.ts
+#EXTINF:-1,ESPANA- Movistar Deportes 1  IPTVultra.com [1280x720]
+http://163.172.84.45:25461/live/tiryonlter/skypp/726.ts
+#EXTINF:-1,ESPANA- EUROSPORT 1 HD esp  IPTVultra.com [720x416]
+http://163.172.84.45:25461/live/tiryonlter/skypp/1940.ts
+#EXTINF:-1,ESPANA- GOL TV  IPTVultra.com [720x576]
+http://163.172.84.45:25461/live/tiryonlter/skypp/1942.ts
+#EXTINF:-1,ESPANA- Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1 type="favorites" channelId="1692" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_la_sexta-despues_2.jpg" , La Sexta (espaÃ±ol)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:-1,ESPANA- Movistar+
+http://88.20.35.188:9009/udp/239.0.0.77:8208
+#EXTINF:-1,ESPANA- Movistar+ HD
+http://88.20.35.188:9009/udp/239.0.5.185:8208
+#EXTINF:-1,ESPANA- LA 1 HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1476.ts
+#EXTINF:-1,ESPANA- LA 2
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1475.ts
+#EXTINF:-1,ESPANA- CUATRO HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1481.ts
+#EXTINF:-1,ESPANA- TELECINCO HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1472.ts
+#EXTINF:-1,ESPANA- LASEXTA HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1474.ts
+#EXTINF:-1,•??--- SPORTSLATMICH----??•
+#EXTINF:-1,SPORTSLATMICH- Azteca SF | USA
+http://cdn2.miip.tv:8880/live/stalker/stalker/3.ts
+#EXTINF:-1,SPORTSLATMICH- GOLTV HD | USA
+http://cdn2.miip.tv:8880/live/stalker/stalker/58.ts
+#EXTINF:-1,SPORTSLATMICH- Bein Laliga HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1479.ts
+#EXTINF:-1,SPORTSLATMICH- DEPORTE 1 HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1456.ts
+#EXTINF:-1,SPORTSLATMICH- DEPORTE 2 HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1455.ts
+#EXTINF:-1,SPORTSLATMICH- EUROSPORT
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1464.ts
+#EXTINF:-1,SPORTSLATMICH- REAL MADRID TV
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1465.ts
+#EXTINF:-1,SPORTSLATMICH- TOROS  HD
+http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1438.ts
+#EXTINF:-1,SPORTSLATMICH- FOX
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18wkODigXIVJTP4JfLV7fMylBXyZJCH861yKd7DqWG6R98xp8hKO4tBW2ygxg01n%2BtmnS6nmKOP2Q%3D%3D
+#EXTINF:-1,SPORTSLATMICH- FOX 2
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX190h%2BjF2CHHEPShIMxn5RFPkr1hTSiOnNR11xJf45wwGsidmV%2FTrACw3Uq48v%2BaRSgJbVqvB%2Fkztg%3D%3D
+#EXTINF:-1,SPORTSLATMICH- ESPN
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX194IunMajW91EN92EjhF4XBL0SsZnyMWMyr15JtLemysKjhyToeC0Q0wVwRGULz7Hl%2BWnboDHkjwQ%3D%3D
+#EXTINF:-1,SPORTSLATMICH- ESPN 2
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B9Ux2qVnYoBkB8cmGsu9cVkQrDgV3mhjnbh6TEETLcfZpbZ58q3RN5Uz7RJglkA1xQiK3AUOTOrA%3D%3D
+#EXTINF:-1,SPORTSLATMICH- ESPN MAS
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19auUfKjHojmfUQlVngwnqPGEjA1qDsi%2FTiGLegK3l8C5D8rkNbtmrmpK%2BE1PIm2qDQj8jA7bVuKg%3D%3D
+#EXTINF:-1,SPORTSLATMICH- TyCSports
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19RZAe7e8ji0443m%2BpiIoe4S4mPTmUhQbCqR%2FE%2BA13d8KDml2k3fr4uKuhqSDsk6YC6ZHcwO251OA%3D%3D
+#EXTINF:-1,SPORTSLATMICH- DIRECTV SPORT
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19JcKFj2Gp6jWi2a4heJoAK7VnR5GXuj63cg6FWTJfN7bRVFEAS%2BTWQsgXHT4AeWV3H3LwItIpkbw%3D%3D
+#EXTINF:-1,•??--- LATINOMICH----??•
+#EXTINF:-1,LATINOMICH- C-Music
+http://178.193.237.115:9000/play/a08k
+#EXTINF:-1,LATINOMICH- CR- Musica TV
+http://cdn2.miip.tv:8880/live/stalker/stalker/17.ts
+#EXTINF:-1,LATINOMICH- Eurosport HD
+http://178.193.237.115:9000/play/a00p
+#EXTINF:-1,LATINOMICH- UNIMAS
+http://bbrtv.ddns.net:8000/live/openup/please/121.ts
+#EXTINF:-1,LATINOMICH- UNIVISION
+http://cdnh1.iblups.com/hls/zkMs2VBC4m.m3u8
+#EXTINF:-1,LATINOMICH- FOX1
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BZYNHpsOPfdHfqmFVpe0Kv2mbO7DSqxYRyoGYLQKNXupGMPBMTJbq0s872MNhpTD7WfHLQEN21nQ%3D%3D
+#EXTINF:-1,LATINOMICH- FOX ACCION
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BQGjdkHXz37GNdnA1uzFZMzTeBSAKG8jzv2BHPHkcSSHJN0j1LPL5fHSBBZtxlXpNiTQ2RYVZPNQ%3D%3D
+#EXTINF:-1,LATINOMICH- FOX MOVIES
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19h2%2BgnkoU9326lC5GRVY0PSCWpdydyLTMLL2yIyER8xpZ3CeUtngvE7ioXAmoCg2yTBQtfXOKk7A%3D%3D
+#EXTINF:-1,LATINOMICH- FOX FAMILY
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BLUpgUimXEEU%2BEAyDVMSXgIMRJVVkVYP7q5Xp8Gu1qPFc36oLURYqwyJqcyIG%2FyMLoZmPrGJ0xg%3D%3D
+#EXTINF:-1,LATINOMICH- GOLDEN HD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX198LMSzo%2FaNv2GlYq4Dwxn3jbZ9ETkrlvcG7qK9Ttz5Y3fGmUJ75waj6P%2Bg%2Fw5OF06ypgTisAnbMg%3D%3D
+#EXTINF:-1,LATINOMICH- CINECANAL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19CvvRr43nm9pA1Tu7Ils4KuyqukwO6sSP3HeDJYcV4SP1xkW3Wxioe5wre5dXNX8058gHSS%2Fj0tA%3D%3D
+#EXTINF:-1,LATINOMICH- TNT
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FPfbRkIZsqjiFSLR%2FI9lZ6QnjCUpTj7869RbDjEuaRqAdf%2FZHxL146%2FnnGCcbiyWZNYNheo1i7MQ%3D%3D
+#EXTINF:-1,LATINOMICH- SPACE
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BcdNnwkyQXOBQF0K9wjgAqKVEe%2Bl6kREhCDZalQHM%2F%2F3jci%2Fm%2BJo8X4q3%2BwsFRV9GJRO9CZicinA%3D%3D
+#EXTINF:-1,LATINOMICH- TLNOVELAS
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19lKuOSttLcrbbddqsthOt8whfUSjZNDhe1wCgZznmpfxIpoUAiGF9aeTHUtUDChYriTIbSh9kjSQ%3D%3D
+#EXTINF:-1,LATINOMICH- CINEMAX
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19LKam%2FkMdRx%2FdYfG9xocBFch%2F%2FlBWihozejcw04BYJKmUnfgLB78nSAQ9lHvYKrDOnQKGE9lhp0A%3D%3D
+#EXTINF:-1,LATINOMICH- WARNER CHANNEL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BFfJEdwVSv9kESwzdO3fXEVef7CMaGkUgzQbU34lRBiLWjuuyh6WdW8g4%2BNhROXS9%2BjfnZmphcLg%3D%3D
+#EXTINF:-1,LATINOMICH- AXN
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2ByZ4gOBgsK7kwET%2BouJycOt5MI7HCLXAcFYalGoFyVxyLhpoD73qsGLaqfmg%2F2uLRwjzd%2FisRphg%3D%3D
+#EXTINF:-1,LATINOMICH- SONY
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18qhMBiFDzTaOO%2BUOF9%2FuoKS4q1YBJfkATutOM00GLX%2FJldMfZA3nFC8oER64FltyHe0FBZx%2B9YJg%3D%3D
+#EXTINF:-1,LATINOMICH- STUDIO UNIVERSAL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1878SExVeKkWftxqBxiwSn7lK1Z9DY7JXXKhMQNXkG0Yf4kvKVpkP4v%2BRRLK6%2Fh2x4Y%2Fq%2Bc9T0z9Q%3D%3D
+#EXTINF:-1,LATINOMICH- AMC
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FhBjbX9gSfjvNaMzKSMgROUEWrnawxj5tHoC%2BS0kbDQCgIsGISjv8nKTGH7d3jNhAxtkZ47q8wWQ%3D%3D
+#EXTINF:-1,LATINOMICH- EDGE
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19OXQEMVmPhUtpwBtheP%2B8xZY9l43VZ9NqgkaiQXWIXUkE5IPjiSY%2FAn4r2Nzk238Ad%2F7hSmzdG1Q%3D%3D
+#EXTINF:-1,LATINOMICH- EL TRECE
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/chunklist_b678000.m3u8
+#EXTINF:-1,LATINOMICH- SPACE
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19s1%2F7X8NtHeZygP4TE0M0d7E6BhZaaS8t7iMxj4fb5AHkrIgE6UkKCFe1hbN2qvyP7G6ulsSoilw%3D%3D
+#EXTINF:-1,LATINOMICH- FOX MOVIES
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19cOg2SAvPwLk%2BZBvTMCBWegIqOASpFk8wGw6ed8A5TYd4cTfZsVaBPLNz7KoxLa1UJyBMtV4K1JQ%3D%3D
+#EXTINF:-1,LATINOMICH- CINEMAX
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX181qdy17Ct3V0JI7e9PUDKJLsK5cQlUT1c0JMdSNNLOrTI9w8C96zaSc6N9ZPAd%2BxSpoM4SPtX0pA%3D%3D
+#EXTINF:-1,LATINOMICH- UNIVERSAL CHANNEL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX192FpVdV1xbyTXzj4UuAOGJZjGtCmfn67U9e90MQSpU9tTpytPg%2BHEaPR%2FkimYwDaa2O8DDyzFVwA%3D%3D
+#EXTINF:-1,LATINOMICH- FOX 1
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FapxpogvL1DLpjRaLx4vP%2F%2BxaN4s5Jmev3T9qSOM9ZrXKYa7HqDuEMm%2BMZtZCdB%2BrLiFnbzEcMcw%3D%3D
+#EXTINF:-1,LATINOMICH- FOX ACCION
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FNPIZMJbtJKT3klFzDlu6W8r5IfF%2F%2BfVMbqjTGrlO0m6OVS%2BTJ2Za%2BfHBgDAslGMU6V7qYmkcDkw%3D%3D
+#EXTINF:-1,LATINOMICH- FX
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19sKaiwTxV4De9N476pf557ts5D4YprdxLDVZFYRn4YnXJzF9h%2FV5cCxo1o%2FI1%2Bod0DQi7wQvJy0g%3D%3D
+#EXTINF:-1,LATINOMICH- WARNER CHANNEL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BdCfbPEsRpc32PfPA749OvcZ5tcgEKIk8XnOVvc1n4wS%2F46j7SMU%2FRuyijocExRoacToX2h%2Bo1vA%3D%3D
+#EXTINF:-1,LATINOMICH- SONY
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BgEUPjw00bJp7qpIJOXKpf1B2FLmEsTZkTS91duukkUZC9Foo7v6yDaKBtWCak3alF4Wz1mbwbzQ%3D%3D
+#EXTINF:-1,LATINOMICH- type="favorites" , TELECAFÃ‰ COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,•??--- Deportes ----??•
+#EXTINF:0 type="favorites" channelId="1332" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" , Real Madrid TV (EspaÃ±a)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#EXTINF:-1 tvg-logo="http://i.imgur.com/b27Bk9b.png" group-title="Real Madrid TV", Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on#erwin
+#EXTINF:-1,------- beIN SPORTS CH --------
+#EXTINF:-1,beIN 1HD
+http://80.79.23.157:8000/live/youssefstar7/star7arab/1.ts
+#EXTINF:-1,beIN 2HD
+http://80.79.23.157:8000/live/youssefstar7/star7arab/2.ts
+#EXTINF:-1,beIN 3HD
+http://80.79.23.157:8000/live/youssefstar7/star7arab/6.ts
+#EXTINF:-1,beIN 4HD
+http://80.79.23.157:8000/live/youssefstar7/star7arab/4.ts
+#EXTINF:-1,beIN 5HD
+http://80.79.23.157:8000/live/youssefstar7/star7arab/5.ts
+#EXTINF:-1,BeinSports:1-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/17.ts
+#EXTINF:-1,BeinSports:2-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/18.ts
+#EXTINF:-1,BeinSports:3-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/19.ts
+#EXTINF:-1,BeinSports:4-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/20.ts
+#EXTINF:-1,BeinSports:5-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/21.ts
+#EXTINF:-1,BeinSports:6-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/22.ts
+#EXTINF:-1,BeinSports:7-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/23.ts
+#EXTINF:-1,BeinSports:8-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/24.ts
+#EXTINF:-1,BeinSports:9-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/25.ts
+#EXTINF:-1,BeinSports:10-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/26.ts
+#EXTINF:-1,BeinSports:11-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/27.ts
+#EXTINF:-1,BeinSports:12-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/28.ts
+#EXTINF:-1,BeinSports:13-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/29.ts
+#EXTINF:-1,BeinSports:14-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/30.ts
+#EXTINF:-1,BeinSports:15-1M
+http://aliptv.info:16000/live/Mode053/aGOjAyrC44/31.ts
+#EXTINF:-1,Lig TV 1 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2115.ts
+#EXTINF:-1,Lig TV 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2116.ts
+#EXTINF:-1,Lig TV 3 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2117.ts
+#EXTINF:-1,Lig TV 4 
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2162.ts
+#EXTINF:-1,Bein Sport 1 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2233.ts
+#EXTINF:-1,Bein Sport 2 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2234.ts
+#EXTINF:-1,Bein Sport 3 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2235.ts
+#EXTINF:-1,Bein Sport 4 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2236.ts
+#EXTINF:-1,Bein Sport 5 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2237.ts
+#EXTINF:-1,Bein Sport 6 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2238.ts
+#EXTINF:-1,Bein Sport 7 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2239.ts
+#EXTINF:-1,Bein Sport 8 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2240.ts
+#EXTINF:-1,Bein Sport 9 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2241.ts
+#EXTINF:-1,Bein Sport 10 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2242.ts
+#EXTINF:-1,Bein Sport 11 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2243.ts
+#EXTINF:-1,Bein Sport 12 HD  VIP
+http://ns3004967.ip-151-80-35.eu:25461/live/humphrey/humphrey/2244.ts
+#EXTINF:-1,Lig TV 1 VIP 
+http://ns3004967.ip-151-80-35.eu:25461/live/alex/alex/2115.ts
+#EXTINF:-1,Lig TV 2 VIP 
+http://ns3004967.ip-151-80-35.eu:25461/live/alex/alex/2116.ts
+#EXTINF:-1,Lig TV 3 VIP 
+http://ns3004967.ip-151-80-35.eu:25461/live/alex/alex/2117.ts
+#EXTINF:-1,Lig TV 4 VIP 
+http://ns3004967.ip-151-80-35.eu:25461/live/alex/alex/2162.ts
+#EXTINF:-1,Bfm Sport
+http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/2916.ts
+#EXTINF:-1,Sfr Sport 1
+http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/2912.ts
+#EXTINF:-1,Sfr Sport 2
+http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/2913.ts
+#EXTINF:-1,Sfr Sport 3
+http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/2914.ts
+#EXTINF:-1,Sfr Sport 5
+http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/2915.ts
+#EXTINF:-1,------- V A R I O S --------
+#EXTINF: -1, Azteca 7
+http://s1.iptv66.tv/live/0105195719641/0105195719641/430.ts
+#EXTINF: -1, Teleformula
+http://s1.iptv66.tv/live/0105195719641/0105195719641/435.ts
+#EXTINF: -1, Canal 5
+http://s1.iptv66.tv/live/0105195719641/0105195719641/201.ts
+#EXTINF: -1, Mundo Az
+http://s1.iptv66.tv/live/0105195719641/0105195719641/160.ts
+#EXTINF: -1, Canal de las Estrellas
+http://s1.iptv66.tv/live/0105195719641/0105195719641/352.ts
+#EXTINF: -1, Univisión HD
+http://s1.iptv66.tv/live/0105195719641/0105195719641/46.ts
+#EXTINF: -1, HD Mega TV
+http://s1.iptv66.tv/live/0105195719641/0105195719641/399.ts
+#EXTINF: -1, UNIMAS HD
+http://s1.iptv66.tv/live/0105195719641/0105195719641/43.ts
+#EXTINF: -1, NBC Universo HD
+http://s1.iptv66.tv/live/0105195719641/0105195719641/305.ts
+#EXTINF: -1, Az Corazon
+http://s1.iptv66.tv/live/0105195719641/0105195719641/397.ts
+#EXTINF: -1, Telenovelas
+http://s1.iptv66.tv/live/0105195719641/0105195719641/193.ts
+#EXTINF: -1, Novelas RCN
+http://s1.iptv66.tv/live/0105195719641/0105195719641/206.ts
+#EXTINF: -1, Telemundo Internacional
+http://s1.iptv66.tv/live/0105195719641/0105195719641/373.ts
+#EXTINF: -1, Telemundo
+http://s1.iptv66.tv/live/0105195719641/0105195719641/180.ts
+#EXTINF: -1, Caracol Internacional
+http://s1.iptv66.tv/live/0105195719641/0105195719641/230.ts
+#EXTINF: -1, TV Chile
+http://s1.iptv66.tv/live/0105195719641/0105195719641/437.ts
+#EXTINF: -1, Tv Globo Internacional
+http://s1.iptv66.tv/live/0105195719641/0105195719641/210.ts
+#EXTINF: -1, Discovery en Español ± ol
+http://s1.iptv66.tv/live/0105195719641/0105195719641/263.ts
+#EXTINF: -1, Discovery HD
+http://s1.iptv66.tv/live/0105195719641/0105195719641/13.ts
+#EXTINF: -1, Discovery World
+http://s1.iptv66.tv/live/0105195719641/0105195719641/290.ts
+#EXTINF: -1, Descubrimiento HH
+http://s1.iptv66.tv/live/0105195719641/0105195719641/26.ts
+#EXTINF: -1, H2 Latinoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/51.ts
+#EXTINF: -1, History Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/98.ts
+#EXTINF: -1, Geografic Nacional
+http://s1.iptv66.tv/live/0105195719641/0105195719641/97.ts
+#EXTINF: -1, Nat Geo Wild
+http://s1.iptv66.tv/live/0105195719641/0105195719641/18.ts
+#EXTINF: -1, Animal Planet
+http://s1.iptv66.tv/live/0105195719641/0105195719641/52.ts
+#EXTINF: -1, ESPN México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/182.ts
+#EXTINF: -1, ESPN2 México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/53.ts
+#EXTINF: -1, ESPN3 México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/54.ts
+#EXTINF: -1, Fox Sports México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/185.ts
+#EXTINF: -1, 2 Fox Sports México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/96.ts
+#EXTINF: -1, Fox Sports 3 México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/55.ts
+#EXTINF: -1, Canal F1 Latinoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/217.ts
+#EXTINF: -1, UFC Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/159.ts
+#EXTINF: -1, Bein Sports Latnoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/243.ts
+#EXTINF: -1, Claro Deportes
+http://s1.iptv66.tv/live/0105195719641/0105195719641/425.ts
+#EXTINF: -1, TDN México
+http://s1.iptv66.tv/live/0105195719641/0105195719641/161.ts
+#EXTINF: -1, Univisión TDN
+http://s1.iptv66.tv/live/0105195719641/0105195719641/202.ts
+#EXTINF: -1, Univision TDN Opcion 2
+http://s1.iptv66.tv/live/0105195719641/0105195719641/204.ts
+#EXTINF: -1, Univision Deportes HD
+http://s1.iptv66.tv/live/0105195719641/0105195719641/364.ts
+#EXTINF: -1, vestigios Deportes
+http://s1.iptv66.tv/live/0105195719641/0105195719641/200.ts
+#EXTINF: -1, ESPNU HD "Estados Unidos"
+http://s1.iptv66.tv/live/0105195719641/0105195719641/138.ts
+#EXTINF: -1, ESPN 2 HD "Estados Unidos"
+http://s1.iptv66.tv/live/0105195719641/0105195719641/240.ts
+#EXTINF: -1, Fox Sports HD 1 "Estados Unidos"
+http://s1.iptv66.tv/live/0105195719641/0105195719641/168.ts
+#EXTINF: -1, Fox Sports HD 2 US Â
+http://s1.iptv66.tv/live/0105195719641/0105195719641/168.ts
+#EXTINF: -1, CDN Canal 37
+http://s1.iptv66.tv/live/0105195719641/0105195719641/179.ts
+#EXTINF: -1, CDN Deportes Max
+http://s1.iptv66.tv/live/0105195719641/0105195719641/178.ts
+#EXTINF: -1, Canal Sony
+http://s1.iptv66.tv/live/0105195719641/0105195719641/188.ts
+#EXTINF: -1, BBC
+http://s1.iptv66.tv/live/0105195719641/0105195719641/177.ts
+#EXTINF: -1, Unicable HD
+http://s1.iptv66.tv/live/0105195719641/0105195719641/267.ts
+#EXTINF: -1, Warner Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/189.ts
+#EXTINF: -1, E!
+http://s1.iptv66.tv/live/0105195719641/0105195719641/60.ts
+#EXTINF: -1, FX
+http://s1.iptv66.tv/live/0105195719641/0105195719641/61.ts
+#EXTINF: -1, FOX
+http://s1.iptv66.tv/live/0105195719641/0105195719641/183.ts
+#EXTINF: -1, Universal Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/93.ts
+#EXTINF: -1, SyFy
+http://s1.iptv66.tv/live/0105195719641/0105195719641/62.ts
+#EXTINF: -1, E & A
+http://s1.iptv66.tv/live/0105195719641/0105195719641/25.ts
+#EXTINF: -1, Investigation Discovery
+http://s1.iptv66.tv/live/0105195719641/0105195719641/63.ts
+#EXTINF: -1, TLC
+http://s1.iptv66.tv/live/0105195719641/0105195719641/64.ts
+#EXTINF: -1, AXN
+http://s1.iptv66.tv/live/0105195719641/0105195719641/186.ts
+#EXTINF: -1, Eurochannel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/211.ts
+#EXTINF: -1, Mundo FOX
+http://s1.iptv66.tv/live/0105195719641/0105195719641/65.ts
+#EXTINF: -1, serie TNT
+http://s1.iptv66.tv/live/0105195719641/0105195719641/66.ts
+#EXTINF: -1, El Gourmet
+http://s1.iptv66.tv/live/0105195719641/0105195719641/154.ts
+#EXTINF: -1, Casa Club TV
+http://s1.iptv66.tv/live/0105195719641/0105195719641/199.ts
+#EXTINF: -1, Mas Chic
+http://s1.iptv66.tv/live/0105195719641/0105195719641/426.ts
+#EXTINF: -1, TBS
+http://s1.iptv66.tv/live/0105195719641/0105195719641/67.ts
+#EXTINF: -1, Glitz
+http://s1.iptv66.tv/live/0105195719641/0105195719641/198.ts
+#EXTINF: -1, Fox Life
+http://s1.iptv66.tv/live/0105195719641/0105195719641/68.ts
+#EXTINF: -1, Distrito Comedia
+http://s1.iptv66.tv/live/0105195719641/0105195719641/205.ts
+#EXTINF: -1, central de la comedia
+http://s1.iptv66.tv/live/0105195719641/0105195719641/156.ts
+#EXTINF: -1, TV TRU
+http://s1.iptv66.tv/live/0105195719641/0105195719641/69.ts
+#EXTINF: -1, Tiempo de Vida
+http://s1.iptv66.tv/live/0105195719641/0105195719641/70.ts
+#EXTINF: -1, WOBI
+http://s1.iptv66.tv/live/0105195719641/0105195719641/422.ts
+#EXTINF: -1, CNN Latinoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/95.ts
+#EXTINF: -1, El Financiero
+http://s1.iptv66.tv/live/0105195719641/0105195719641/266.ts
+#EXTINF: -1, NTN 24
+http://s1.iptv66.tv/live/0105195719641/0105195719641/214.ts
+#EXTINF: -1, Mtv Latinoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/184.ts
+#EXTINF: -1, MTV Hits
+http://s1.iptv66.tv/live/0105195719641/0105195719641/207.ts
+#EXTINF: -1, VH1 Clssic
+http://s1.iptv66.tv/live/0105195719641/0105195719641/105.ts
+#EXTINF: -1, VH1 Latinoamérica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/101.ts
+#EXTINF: -1, Claro Música
+http://s1.iptv66.tv/live/0105195719641/0105195719641/197.ts
+#EXTINF: -1, Concert Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/400.ts
+#EXTINF: -1, HTV
+http://s1.iptv66.tv/live/0105195719641/0105195719641/71.ts
+#EXTINF: -1, TV Exa
+http://s1.iptv66.tv/live/0105195719641/0105195719641/427.ts
+#EXTINF: -1, Bandamax
+http://s1.iptv66.tv/live/0105195719641/0105195719641/196.ts
+#EXTINF: -1, De Película
+http://s1.iptv66.tv/live/0105195719641/0105195719641/418.ts
+#EXTINF: -1, Cine Dinamita
+http://s1.iptv66.tv/live/0105195719641/0105195719641/203.ts
+#EXTINF: -1, Multipremier
+http://s1.iptv66.tv/live/0105195719641/0105195719641/119.ts
+#EXTINF: -1, Cine Latinoamericano
+http://s1.iptv66.tv/live/0105195719641/0105195719641/99.ts
+#EXTINF: -1, Golden
+http://s1.iptv66.tv/live/0105195719641/0105195719641/19.ts
+#EXTINF: -1, borde de oro
+http://s1.iptv66.tv/live/0105195719641/0105195719641/195.ts
+#EXTINF: -1, Golden Multiplex de Premium
+http://s1.iptv66.tv/live/0105195719641/0105195719641/155.ts
+#EXTINF: -1, Paramount Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/4.ts
+#EXTINF: -1, Sundance Channel
+http://s1.iptv66.tv/live/0105195719641/0105195719641/158.ts
+#EXTINF: -1, TNT Latinoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/20.ts
+#EXTINF: -1, Cinecanal
+http://s1.iptv66.tv/live/0105195719641/0105195719641/190.ts
+#EXTINF: -1, Cinecanal Premier
+http://s1.iptv66.tv/live/0105195719641/0105195719641/423.ts
+#EXTINF: -1, Cinemax
+http://s1.iptv66.tv/live/0105195719641/0105195719641/72.ts
+#EXTINF: -1, Espacio
+http://s1.iptv66.tv/live/0105195719641/0105195719641/187.ts
+#EXTINF: -1, AMC
+http://s1.iptv66.tv/live/0105195719641/0105195719641/102.ts
+#EXTINF: -1, Studio Universal
+http://s1.iptv66.tv/live/0105195719641/0105195719641/73.ts
+#EXTINF: -1, TCM
+http://s1.iptv66.tv/live/0105195719641/0105195719641/100.ts
+#EXTINF: -1, I-Sat
+http://s1.iptv66.tv/live/0105195719641/0105195719641/215.ts
+#EXTINF: -1, Europa Europa
+http://s1.iptv66.tv/live/0105195719641/0105195719641/212.ts
+#EXTINF: -1, Film & Arts Latinoamérica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/213.ts
+#EXTINF: -1, la zona Film
+http://s1.iptv66.tv/live/0105195719641/0105195719641/74.ts
+#EXTINF: -1, Fox 1
+http://s1.iptv66.tv/live/0105195719641/0105195719641/75.ts
+#EXTINF: -1, Fox 1 Opcion 2
+http://s1.iptv66.tv/live/0105195719641/0105195719641/94.ts
+#EXTINF: -1, la familia Fox
+http://s1.iptv66.tv/live/0105195719641/0105195719641/76.ts
+#EXTINF: -1, Fox Comedia
+http://s1.iptv66.tv/live/0105195719641/0105195719641/77.ts
+#EXTINF: -1, Fox Cine
+http://s1.iptv66.tv/live/0105195719641/0105195719641/78.ts
+#EXTINF: -1, Acción Fox
+http://s1.iptv66.tv/live/0105195719641/0105195719641/79.ts
+#EXTINF: -1, Fox Acción Opcion 2
+http://s1.iptv66.tv/live/0105195719641/0105195719641/80.ts
+#EXTINF: -1, Películas Fox
+http://s1.iptv66.tv/live/0105195719641/0105195719641/81.ts
+#EXTINF: -1, Classics Fox
+http://s1.iptv66.tv/live/0105195719641/0105195719641/82.ts
+#EXTINF: -1, HBO Latinoamerica
+http://s1.iptv66.tv/live/0105195719641/0105195719641/92.ts
+#EXTINF: -1, HBO 2
+http://s1.iptv66.tv/live/0105195719641/0105195719641/83.ts
+#EXTINF: -1, HBO Plus 1
+http://s1.iptv66.tv/live/0105195719641/0105195719641/84.ts
+#EXTINF: -1, HBO Plus 2
+http://s1.iptv66.tv/live/0105195719641/0105195719641/85.ts
+#EXTINF: -1, Familia HBO
+http://s1.iptv66.tv/live/0105195719641/0105195719641/86.ts
+#EXTINF: -1, Firma HBO
+http://s1.iptv66.tv/live/0105195719641/0105195719641/87.ts
+#EXTINF: -1, Max Hasta
+http://s1.iptv66.tv/live/0105195719641/0105195719641/88.ts
+#EXTINF: -1, Max Prime Este
+http://s1.iptv66.tv/live/0105195719641/0105195719641/89.ts
+#EXTINF: -1, Max Prime Oeste
+http://s1.iptv66.tv/live/0105195719641/0105195719641/90.ts
+#EXTINF: -1, Max
+http://s1.iptv66.tv/live/0105195719641/0105195719641/91.ts
+#EXTINF: -1, Golden Premier
+http://s1.iptv66.tv/live/0105195719641/0105195719641/304.ts
+#EXTINF: -1, Golden Premier 2
+http://s1.iptv66.tv/live/0105195719641/0105195719641/303.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19x66uNBEKPoctLTUZDhf3Q6FNunivZ29N8LwD%2BYV9A8EGcBsmQ6d%2FjOthccwag2efraWIkxXHRxw%3D%3D
+#EXTINF:-1,NATGEO WILD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BObdAt37rhEfUMQd4oDoMDlpO6Z8M55cTpG7O3BUsf5iaXJ2f4imP%2BgLbSpA%2FZcUtYdon8dP%2BRKw%3D%3D
+#EXTINF:-1,TNT SERIES
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fo7RwnWSqeI%2Fxg2xl6pFfrVqDWRAJTkeS1supv8TNJegAWJvzO%2BnxrO0cMK15Bg4SrrHOq%2BWs4yg%3D%3D
+#EXTINF:-1,INVESTIGACION DISCOVERY
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BStHefdx7dtPagCBF0oVs9yL%2B56pZ2eh3%2F99QHdYRb1BzeGqLAte6HUsVN9qPldSjcvZCVUzobZg%3D%3D
+#EXTINF:-1,DISCOVERY THEATER
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX183AwvS01PY7vIatXkHQRbaH11QfNxWyxQ%2BMHmC6S5tPYSyppyviLAq8T5l3gZUR07WWry9K54M3g%3D%3D
+#EXTINF:-1,TLC
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BMT4RyKpjPD2smh%2BtF4fQonTy9Oa9iDZro3%2Fhw%2BdVTxVNccP9laj%2BTvQ84ES6Ihivm56xjk1c3CQ%3D%3D
+#EXTINF:-1,FX HD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fhtmg2SP%2ByW0Wugv00tUG7H8nw8r1Lt26m1g%2BciB0jTiUc6oAzX7O0rYpv%2F8eMjCRVvOxkMgmXbQ%3D%3D
+#EXTINF:-1,FILM ZONE
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FeXEgV7SthJS9Kwk4nDCKgx2sSoYiBolzoC%2BbmOaflxptqb8OSTvHXPi%2FgFncoFK7Z9HVT86Y5cQ%3D%3D
+#EXTINF:-1,NAT GEO
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BDpeQHzIEmdUWy7QKOUqIomgg%2BV0n9QfwVaw%2Fn3dDj6w5PgGcNBasZPynk%2B29SWvVtIj7WA7fPHQ%3D%3D
+#EXTINF:-1,GALA VISION
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BoghL%2F%2FHcnxuxwbinIGC3jXJUsSQNAo8jeqpqEgO0P0lGyGER%2F0eD%2FAWps3lW0gn9iAJKAGuo4uA%3D%3D
+#EXTINF:-1,SYFY
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2F22hoZNJ%2F0CVoUpXaBQ8siaLhgt5ijDljLcOiQWdNYfp7lGkmRvSR%2BcYPgnLxyoQVaeBPm%2FEBlWg%3D%3D
+#EXTINF:-1,ISAT
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BDsGwC8BMZkJs9fK05YIpJbSu71m0qcE3HoGJzv83aICkGReFEnn8Im%2BQHVPRRss4xKLjUtWSF6w%3D%3D
+#EXTINF:-1,DISTRITO COMEDIA
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19bHqR6xV4n3UJpQgComL%2Bwv%2F5c1z4DKRYq23SgDHwkvoRMgMyb9THyIWWPXQIO7fTXTjUkzndglA%3D%3D
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BdLqBj72AzO2XEYrnIF3X32hG32CHc4pvv2S4RcFtu1GQJmTuvdwE8%2FonhNGaHvvF6Fr3b1T1wWg%3D%3D
 #EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BvGS6Ms6eq2ndZ32Mg9ygB8cXrVycqx7Mq7jEpbYYrOQOW1hcw%2B7L87eDPjFtsxRwNCUEYNch4Ag%3D%3D
-
-
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18YVnPd%2Bsr0SSwhpYZ63DVp5FKwU6gPK%2B6%2B%2Flvf8jP8ZhToGrl3O8ufBtvBzKfCjYpfhhIfoscMSA%3D%3D
-
-#EXTINF:-1,Distrito Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FAmzbTAe5vzLfBBjlyUajWzEyger40lUIT8wTHUycxWTE%2BSuRnBwlafj43IeSzrv9C1MkDwBvlQg%3D%3D
-
-
-#EXTINF:-1,Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18zqDk7J4PdMMfJMpTV0ltU%2F37hqO0S%2FCaTtpPUzEq92KekB6Wrds5bGi%2BWurIpDHP3TB3IMTls6g%3D%3D
-
-
-#EXTINF:-1,History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FqrYmvELFlJW3mYQavTi2%2BMKdBCIQ%2BLZDlyc3GZ%2B6ZGD4FUdaVzioNWkuje9kHlFraFSIWzCGVZA%3D%3D
-
-#EXTINF:-1,Telemundo Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge501.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
-
-
-#EXTINF:-1,Telemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge5.telesport.pw/live/telemundo/index.m3u8
-
-#EXTINF:-1,Telemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge7.telesport.pw/live/telemundo/index.m3u8
-
-#EXTINF:-1,El Canal de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX193qTHv9un%2B7nL74gBp%2FtizYf%2BxRrakNyQ8W%2F9amhVy47mmRwHsEgNBMLjbJIt5juR%2F1fxyHss1xg%3D%3D
-
- 
-#EXTINF:-1,Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19s5PCG55GBoG9NTE8PdCHsmwNHxhRz7BhTBY2Cgs1DeWrBLdhOlSj%2BQQL%2FUAw13A2pVRTl0uULhQ%3D%3D
-
-
-#EXTINF:-1,ToonCast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B0fVOG1qdMiKuOa27G3Je%2FYIbwYLMGEiBwRRHtZMJfS9mSGoK8GQ4x7PrQZhg7mba21RHgwRjRhA%3D%3D
-
-#EXTINF:-1,Nick HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BuURf9JqSOddTPtVCvXIcPObiHNTgaLyYj1ZqdLMue2Dkk7mqtBwP9b52egp8s31vMFJhApGgsuA%3D%3D
-
-#EXTINF:-1,Nick Toons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fzn2Zn6bjd6Ulx%2FayBOhHADRwlqg7qjNPdKEvXNMUP1BlgsXoVeZPPNAPx6loDMEb%2FOY8jPyxXNg%3D%3D
-
- 
-#EXTINF:-1,Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FbkagZqZC4sTeVP1I1OE%2BavMEdr6z13rtpPnFXO%2Bu3QkOApVGdH2C8LxrLPc4xB%2B77%2F3wcvtxECw%3D%3D
-
-
-#EXTINF:-1,Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BMFj9BHiqpLJXhlpLf5407mhkizP9YjK8fZMIs9JgftIEPNOq%2FSNHEhps8wXrsNraAWQX%2By3DjDQ%3D%3D
-
-#EXTINF:-1,Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B1rIqITMFwrQuDg8BjNgce4aN6I9wjI9j8ucZn5miSQPjcJ%2Fj4xO%2FCmbq%2FM0PAAdgU8dlRoCPJ7g%3D%3D
-
-
-#EXTINF:-1,Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BTCGBU5%2BEZMIgjGGH7zOnNpbUd4ERSs5lQiSq%2BN8qU5KJlzF%2BwEwnY27c4oRgMSpR04GQW0s7vJA%3D%3D
-
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cdn3.shurs.xyz/verliga/7/playlist.m3u8
-
-
-#EXTINF:-1,TNT
-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cdn1.shurs.xyz/verliga/7/playlist.m3u8
-
-
-#EXTINF:-1,TNT Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19uWa96Hdg9qkI3vtjrOLW7WTHJf1ZMqiEMQ8IlBdb6yagiQcYSsrOy9iowR%2FDOxdpbN%2BnpHiSKTg%3D%3D
-
- 
-#EXTINF:-1,CineCanal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2F8ash5NdPWXukQC%2FPfp2X9yyzj%2F7aRidD6CUG8qml0Y1aCO%2B%2BsPniojz40GzGX%2B7kad88K3EOotQ%3D%3D
-
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2Bpw%2B0K5IjFM9IGN9aIeqAYE%2FPHh49Ozk45rU%2BMg93QDexsuYLaA25lK2UUH3a2yMMvQrwfnCYeHw%3D%3D
-
-#EXTINF:-1,HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18ZZEngZEdefWdZbb6%2FgR5aYL2PlBJLkt8KRyTVef5GFRnKp0cOJuPkbZybgslDQGHLFvMxhZF8FA%3D%3D
-3D
-
-
-#EXTINF:-1,HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FI9kyUwVrLJZ2YkWhKebr4eHBKS2cRUzaAJbBYytxxT9OXZabXxfYpXooQQcwI6%2FBdmqrunhdDmg%3D%3D
-
-#EXTINF:-1,HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18GuF17dulmI8cPiLM%2FOZPyEB04vaKWYLOcRrXYRbMUco48zw09gotCrsrkx4kMYs30kQpX0ekTtA%3D%3D
-
-
-#EXTINF:-1,Golden HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX196uxvIr250D8AAYdAdgYQZ%2FdGjsBysEihiOUIJTak1MihQvTz1L%2BgNq%2FIOOQ4jpQhJQGdC471fNA%3D%3D
-
-#EXTINF:-1,Golden Edge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FAF2xnml8o9y7FhE6kBr0plLKxrbPTPwlKJPLVmM%2B%2BkwMtQSNGXM9f5Bz7%2BHNKOH4tgdpwI0O%2B8g%3D%3D
-
-
-
-#EXTINF:-1,Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BN6YovdNgwGvrqszB8YzWH%2BUfkXqsAwh3ItmNXhHK%2BVRSQPTlWyBWse1mWOcIDpJLgcyUrA5C%2FbA%3D%3D
-
-#EXTINF:-1,Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19JfTyrm1t2kYLD3WXu%2BWhIInEJYaxNbRi90rDKvZHLMZxMmslTybn4zuXqoOcyIUu7M2nAyGWkrg%3D%3D
-
-
-#EXTINF:-1,Universal Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fep%2BshByBNktzqyT%2BW8NqoY3DPu0lNAgysjUSKmV6pC4Eu3rsmxPYqu4ZFCHcvwnJfxmsMKXCFEw%3D%3D
-
-
-#EXTINF:-1,Film Zone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BGbBXiPRh%2Bqd5%2B4JnFFTD6IbLd3w2KbZkWXcqqi6ns0GfPfkQSV9Q8Dgag2IZ3JwTd792PhniPhQ%3D%3D
-
-
-
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FYDx4KzNauyGVzK%2FbxqXn3Pq6QEi7UI%2FY84zX00H7Ayc2Uiwc5MbBpy7SLyT8N7dV6e0m0sP0HGQ%3D%3D
-
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18kX3Y4%2FHLx8%2FiqVMCLv4xqw60vxZ3yM3cU16Q2KLHyTPfdw6oZggObn0qCj8cXFwzR73%2BR9rjilQ%3D%3D
-
-#EXTINF:-1,Sony
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FTuaV%2FDPuwP1cwqpNrzj%2Fe649X4C9%2FLerK7%2Fpqd4pldbPDWhr7fyNkQlnvT6Bq25qn3KKGn5JwJA%3D%3D
-
-
-#EXTINF:-1,Nat Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BfvLmip4OrEQr9hQHWT3G4coDfyfMscDemXlfmbonncdrK8X5%2BNme5IdFZr4auBjH8dWdvBL%2FPBg%3D%3D
-
-#EXTINF:-1,Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BQcEUsNjyALAnvSHpj5SvnmjaF8HeOGCTk4IqOARL3%2FhdDSACifbx1ePSfZuaUy5wDXbJ2s0%2BFaw%3D%3D
-
-#EXTINF:-1,SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FDEhKmatcfcucu1k6Lo2Rn8wKXf9LwXq1VG%2BHVdrLfbnqkv4LB10sJsoArd5M4m16S7WcRI72f%2FQ%3D%3D
-
-
-#EXTINF:-1,Latina TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
-
-#EXTINF:-1,Latina TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8
-
-
-#EXTINF:-1,Deportes
-
-#EXTINF:-1,Univision TDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FbDEwkZbMwwEK98Zmu4%2FodPTTkBjcxX9yJKt1lz6jQepkdXFXOkCoQjPXRQEDAX8xm9EadmVHxdg%3D%3D
-
-
- 
-#EXTINF:-1,Bein Sport La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19FooooPwFMJ%2BBp6zWVcU1fEcyadOFSFPTsZEeBd0vvpGdzwHD4Bgye%2B%2FcKlwh7RTIPMlmzLqHkVg%3D%3D
-
-
-#EXTINF:-1,Bein Sport La Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B0DROnyXxOddYEW7vD6yUul3utOSKstebI%2FGQQppmC9kxebavVGDvB59EGAe1SM0tIW56661MRIA%3D%3D
-
-#EXTINF:-1,Gol Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BEPAYkyR%2FMjKGY%2B0bCukJqtiuOuoWNMFFwZQDTenedDnM3osImihZ2%2FOLgUrbsKE6qqoavevSGOw%3D%3D
-
-
-#EXTINF:-1,TDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18Pu8Z1jJtuE5tnxawQ6NG9pm7rGUP4bN9gZRj8N99958giX8s5%2F85G1EtNZEt5BgpBH%2FC1RNR5Hw%3D%3D
-
-
-#EXTINF:-1,ESPN+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Br5kYvKayt6qKdftqglJZzJfMEj%2BRlXOBGhV4MkGnOL8HlUJutNqqD8UWe0Y6Ac2ZtcSdKdVPwGw%3D%3D
-
-#EXTINF:-1,ESPN
-https://live13.userapi.com/639912/live/1gJD5yNAfz8Y-Icl/playlist.m3u8
-
- 
-#EXTINF:-1,ESPN 2
-https://live2.userapi.com/637609/live/1kYH5yNAfz-wm4Yz/playlist.m3u8
-
- 
-#EXTINF:-1,ESPN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FmRplHsVSX%2FcV6fkH32EnJSiC9Kl%2BOAekrWKGoO%2BEs8kbjHkqbh%2B8wYVij5mY5JhyCd4ZvU45L3A%3D%3D
-
- 
-#EXTINF:-1,Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19%2FssalIs99zt%2FUvEhFHjy68n3qoauZVWImPQx%2FleVNj0f9WWqyhwb46cnWH7yscfxKX25KJuh%2FyQ%3D%3D
- 
-#EXTINF:-1,Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BO8Voqnp6k3WiFocbiYyze56C1KWCLyc31cw9mQ5eqgE6ArlAr1%2FG%2BxJbjJvrwdbj2wpxPW53HYg%3D%3D
- 
-#EXTINF:-1,Bein Sport España
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge504.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
-
-
-#EXTINF:-1,Win Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18a1OPybVir1VJHpPQyLRjanu7qQkvtXqlfPyMtKjP1RtLPTcavzxZuvSDvwe69NGki%2B5xPwFr%2BGA%3D%3D
-
-#EXTINF:-1,TDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18jy6wvgXFoabAgJDLZ78Gfvyf6CFV%2BoTLsZ164kBqWN%2FAFz4tzgWsfZxWICLrbLKD28k5d1vh6jA%3D%3D
-
-
-
-#EXTINF:-1,Gol Peru
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FzMwoWhiKXaaA7L%2BPVPB52tybeOlNbcqJQPe%2B4B0OlWfo9VpKSAH1pr1f1qVvLCs75fTQ9qMghLw%3D%3D
-
-
-#EXTINF:-1,UFC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19SoQ7K5q4iFKdQTTPBhfOKzTwhpuEO2Z4I5KgRds3GLfOwM1WpMZ6AgaprOfUjQPe0FWuk%2B6s6PA%3D%3D
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19zdAwLGu5nDfr8WuW51eV0Mz9LBfjFuhHCs%2FRe%2FU53tuWDDxsUxjoeZ0AHsSe%2FCZg8TAno8k0mdQ%3D%3D
+#EXTINF:-1,CARTOON NETWORK
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B71SqFcWDz7ZorfcKPj1NUbtcV8tis%2Bg2NBMc%2F1EJrHVRWh3GC3ShEtHwzWK0CqB6qIxwZ1bYOfw%3D%3D
+#EXTINF:-1,DISNEY CHANNEL
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BkXs2%2B40AtLAsmSZ8oStKll%2F5ofSJoESGi9KjwbYPi4HaOIpcHW52rOYcA7EuV%2FoLTyy66YJBV%2Bg%3D%3D
+#EXTINF:-1,NICK HD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19zSqwBBqEgex%2BD0ae397K8TMG5dd7vjqOzmuwLmyzN%2FfV5DKvk9WlooPwUz5wK66rovnk%2FZj0UNw%3D%3D
+#EXTINF:-1,DISNEY XD
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19ciAKhI6OlrUFQqwBf7LHCn1B80VqF0nEcgbWFBa4Z8ScLyuoEAfyUGneYoxJAqLp2Yzx9t3rFtg%3D%3D
+#EXTINF:-1,NICKTOON
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BvDgm20VwPiUBQ4QRRVH3i1ebw6EHvOkCpMvzwRGfIRutdky4WZ4c1Bc0qi3hzpCVIdi8QsruMuA%3D%3D
+#EXTINF:-1,TCM
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BtStV%2B6xduyBgrTTJ1BULwGySLIDoGzBopg2NOW4p%2BHwTcFWhgVh0KcsLGQXlQR%2F14Lt01SGIUAg%3D%3D
+#EXTINF:-1,FOX LIFE
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BP7Y5puhA%2BwrLigavHiHRi%2B433Q1SyOmAs1HX9kZWEHqdQA%2BXR0uYGFLbNybeh67ghogqQWopuaQ%3D%3D
+#EXTINF:-1,TRU TV
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18qXP0Uba6PxF17sUcvSzqzLMvW58a%2FZqqOFXL01tw2ErE355nHd5dVXAiKdWFcpESE%2BTD%2BFd12BA%3D%3D
+#EXTINF:-1,EIEN
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX192glZttlpljc3Dg22GznwN8lmgJv4cR1yR7eqHG5G1O9IIXhtGjzKnvCrL3Z23lgJX0xVhHTUiMw%3D%3D
+#EXTINF:-1,AZTECA
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18lnUh8vXBWHKHQw3rXeevYmYv5GzfLh%2Fw%2FoW7vOqIaSBYIsul5%2BuRdgtoeOvUOV%2Fm2Y6iCywG6AA%3D%3D
+#EXTINF:-1,TOONCAST
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FJ%2BIQ7gE%2FJzeec3g8dy2yYaDuN2Q3Ion%2BWMl2kzbf6D0BuUclMm7oQv99qXrRBvwP8kEgqCklTww%3D%3D
+#EXTINF:-1,ANIMAL PLANET
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BlZdBj2Cx1SmX9YhN8l9Y4PozjfR%2FYWMZ1lmrCQPm2B%2B26KU0V7t73Qte%2F2o%2FjPCs%2Bs9IORWPLaA%3D%3D
