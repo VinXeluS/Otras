@@ -1,172 +1,60 @@
 #EXTM3U
 
-#EXTINF:-1,---- ESPANIA ------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/2919.m3u8
-#EXTINF:-1,ES: LaLiga TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9805.m3u8
-#EXTINF:-1,ES: La Liga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9631.m3u8
-#EXTINF:-1,ES: GOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/10173.m3u8
-#EXTINF:-1,ES: BeIN LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9500.m3u8
-#EXTINF:-1,ES: beIN Sports España ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11170.m3u8
-#EXTINF:-1,ES: beIN Sports España ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11116.m3u8
-#EXTINF:-1,beIN Sports MAX 1 Espana HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11113.m3u8
-#EXTINF:-1,beIN Sports MAX 2 Espana HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11114.m3u8
-#EXTINF:-1,beIN Sports MAX 3 Espana HD ES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11115.m3u8
-#EXTINF:-1,ES: BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11150.m3u8
-#EXTINF:-1,ES: BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11149.m3u8
-#EXTINF:-1,ES: BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11148.m3u8
-#EXTINF:-1,ES: BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11147.m3u8
-#EXTINF:-1,ES: BEIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11146.m3u8
-#EXTINF:-1,ES: BEIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11145.m3u8
-#EXTINF:-1,ES: BEIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11144.m3u8
-#EXTINF:-1,ES: BEIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/11143.m3u8
-#EXTINF:-1,ES: beIN LaLiga 1 (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/10730.m3u8
-#EXTINF:-1,ES: beIN LaLiga 2 (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/10731.m3u8
-#EXTINF:-1,ES: beIN LaLiga 3 (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/10732.m3u8
-#EXTINF:-1,ES: Movistar Partidazo (event only)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/10733.m3u8
-#EXTINF:-1,ES: CANAL+  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8443.m3u8
-#EXTINF:-1,ES: CANAL+  FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/1824.m3u8
-#EXTINF:-1,ES: CANAL+  DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/1876.m3u8
-#EXTINF:-1,ES: CANAL+  DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/4835.m3u8
-#EXTINF:-1,ES: Teledeporte HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9473.m3u8
-#EXTINF:-1,ES: MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/6794.m3u8
-#EXTINF:-1,ES: MOVISTAR MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/2085.m3u8
-#EXTINF:-1,ES: Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/3921.m3u8
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/2720.m3u8
-#EXTINF:-1,ES: Real Madrid tv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5028.m3u8
-#EXTINF:-1,ES: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8935.m3u8
-#EXTINF:-1,ES: TVE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/2718.m3u8
-#EXTINF:-1,ES: TVE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5160.m3u8
-#EXTINF:-1,ES: TV3 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8938.m3u8
-#EXTINF:-1,ES: La Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/4992.m3u8
-#EXTINF:-1,SP: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/4075.m3u8
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5023.m3u8
-#EXTINF:-1,ES: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/4993.m3u8
-#EXTINF:-1,ES: Antena 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/4994.m3u8
-#EXTINF:-1,ES: TV3 CAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5046.m3u8
-#EXTINF:-1,ES: Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/7829.m3u8
-#EXTINF:-1,ES: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8937.m3u8
-#EXTINF:-1,ES: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8864.m3u8
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8934.m3u8
-#EXTINF:-1,ES: Andalucia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8936.m3u8
-#EXTINF:-1,ES: PARAMOUNT CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5039.m3u8
-#EXTINF:-1,ES: DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5154.m3u8
-#EXTINF:-1,ES: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5162.m3u8
-#EXTINF:-1,ES: CANAL+ TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5152.m3u8
-#EXTINF:-1,ES: CANAL SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5153.m3u8
-#EXTINF:-1,ES: CANAL HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5150.m3u8
-#EXTINF:-1,ES: M ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5155.m3u8
-#EXTINF:-1,ES: CANAL+ COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5156.m3u8
-#EXTINF:-1,ES: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5159.m3u8
-#EXTINF:-1,ES: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5163.m3u8
-#EXTINF:-1,ES: Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/5164.m3u8
-#EXTINF:-1,ES: TELEVISA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/3512.m3u8
-#EXTINF:-1,ES: M Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/2991.m3u8
-#EXTINF:-1,ES: 40TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/6795.m3u8
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8567.m3u8
-#EXTINF:-1,ES: SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8565.m3u8
-#EXTINF:-1,ES: Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8570.m3u8
-#EXTINF:-1,ES: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8566.m3u8
-#EXTINF:-1,ES: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8568.m3u8
-#EXTINF:-1,ES: AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8569.m3u8
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/3448.m3u8
-#EXTINF:-1,ES: Non Stop People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9496.m3u8
-#EXTINF:-1,ES: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9477.m3u8
-#EXTINF:-1,ES: Caza y Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9474.m3u8
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9499.m3u8
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9476.m3u8
-#EXTINF:-1,ES: 8TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9498.m3u8
-#EXTINF:-1,ES: 13 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/9497.m3u8
-#EXTINF:-1,ES: Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8563.m3u8
-#EXTINF:-1,ES: Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8561.m3u8
-#EXTINF:-1,ES: Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8560.m3u8
-#EXTINF:-1,ES: Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8559.m3u8
-#EXTINF:-1,ES: Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8558.m3u8
-#EXTINF:-1,ES: Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8557.m3u8
-#EXTINF:-1,ES: Taquilla 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8556.m3u8
-#EXTINF:-1,ES: Taquilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8555.m3u8
-#EXTINF:-1,ES: Taquilla 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8554.m3u8
-#EXTINF:-1,ES: Taquilla 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://51.255.88.234:8080/live/amir2/amir2/8562.m3u8
+#EXTINF:-1, fox
+http://edge6.telesport.pw/live/fox/index.m3u8
+#EXTINF:-1, foxlife
+http://edge2.telesport.pw/live/foxlife/index.m3u8
+#EXTINF:-1, axn
+http://edge1.telesport.pw/live/axn/index.m3u8
+#EXTINF:-1, canal plus
+http://edge6.telesport.pw/live/plus1/index.m3u8
+#EXTINF:-1,movistar estrenos
+http://edge6.telesport.pw/live/plusestrenos/index.m3u8
+#EXTINF:-1,movistar accion
+http://edge6.telesport.pw/live/plusaccion/index.m3u8
+#EXTINF:-1,movistar comedia
+http://cdn2.shurs.xyz/verliga/1/playlist.m3u8
+#EXTINF:-1, movistar dcine
+http://cdn3.shurs.xyz/verliga/3/playlist.m3u8
+#EXTINF:-1, amc
+http://edge1.telesport.pw/live/amc/index.m3u8
+#EXTINF:-1,mtv
+http://edge7.telesport.pw/live/mtv/index.m3u8
+#EXTINF:-1, tnt
+http://edge1.telesport.pw/live/tnt/index.m3u8
+#EXTINF:-1, discovery max
+http://edge3.telesport.pw/live/dmax/index.m3u8
+#EXTINF:-1,dicovery crimen investigation
+http://edge8.telesport.pw/live/canalcrimen/index.m3u8
+#EXTINF:-1, natgeo
+http://edge5.telesport.pw/live/nationalgeo/index.m3u8
+#EXTINF:-1, history
+http://edge6.telesport.pw/live/historia/index.m3u8
+#EXTINF:-1,natgeo wild
+http://edge7.telesport.pw/live/nationalwild/index.m3u8
+#EXTINF:-1, telemundo
+http://edge5.telesport.pw/live/telemundo/index.m3u8
+#EXTINF:-1, foxlatino
+http://edge3.telesport.pw/live/foxlatino/index.m3u8
+#EXTINF:-1, Paramount Channel
+http://cdn2.shurs.xyz/verdirectotv/5/playlist.m3u8
+#EXTINF:-1, Comedy Central
+http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8
+#EXTINF:-1, Hollywood
+http://cdn2.shurs.xyz/verdirectotv/10/playlist.m3u8
+#EXTINF:-1,Discovery
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+#EXTINF:-1,Canal Cocina
+http://cdn2.shurs.xyz/verliga/6/playlist.m3u8
+#EXTINF:-1, RCN
+http://cdn2.shurs.xyz/verliga/8/playlist.m3u8
+#EXTINF:-1,movistar deportes1
+http://edge11.verliga.me/live/plusdeportes/index.m3u8
+#EXTINF:-1, movistar deportes2
+http://edge11.verliga1.pw/live/plusdeportes2/index.m3u8
+#EXTINF:-1,movistar golf
+http://edge3.telesport.pw/live/golf/index.m3u8
+#EXTINF:-1,AMC
+http://edge3.telesport.pw/live/amc/index.m3u8
