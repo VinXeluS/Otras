@@ -1,262 +1,170 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<item>
-<title>SP: La 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 1 </link>
-</item>
-<item>
-<title>SP: La 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La 2 </link>
-</item>
-<item>
-<title>SP: Antena 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Antena 3 </link>
-</item>
-<item>
-<title>SP: Cuatro</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Cuatro </link>
-</item>
-<item>
-<title>SP: Telecino</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Telecino </link>
-</item>
-<item>
-<title>SP: La Sexta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: La Sexta </link>
-</item>
-<item>
-<title>SP: Clan TVE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Clan TVE </link>
-</item>
-<item>
-<title>SP: Nova</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Nova </link>
-</item>
-<item>
-<title>SP: Neox</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Neox </link>
-</item>
-<item>
-<title>SP: Canal Sur</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Sur </link>
-</item>
-<item>
-<title>SP: C+ Estrenos</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Estrenos </link>
-</item>
-<item>
-<title>SP: C+ Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Xtra </link>
-</item>
-<item>
-<title>SP: C+ Accion HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Accion HD </link>
-</item>
-<item>
-<title>SP:  C+ Comedia HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  C+ Comedia HD </link>
-</item>
-<item>
-<title>SP: C+ Dcine HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Dcine HD </link>
-</item>
-<item>
-<title>SP: Hollywood</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Hollywood </link>
-</item>
-<item>
-<title>SP: TNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT </link>
-</item>
-<item>
-<title>SP: Tcm</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Tcm </link>
-</item>
-<item>
-<title>SP: C+ Series</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Series </link>
-</item>
-<item>
-<title>SP: C+ Series Xtra</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Series Xtra </link>
-</item>
-<item>
-<title>SP: Fox HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox HD </link>
-</item>
-<item>
-<title>SP: Amc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Amc </link>
-</item>
-<item>
-<title>SP: Axn HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Axn HD </link>
-</item>
-<item>
-<title>SP: Syfy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Syfy </link>
-</item>
-<item>
-<title>SP: Calle 13</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Calle 13 </link>
-</item>
-<item>
-<title>SP: Comedy Central</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Comedy Central </link>
-</item>
-<item>
-<title>SP: FDF</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FDF </link>
-</item>
-<item>
-<title>SP: Divinity</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Divinity </link>
-</item>
-<item>
-<title>SP: Energy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Energy </link>
-</item>
-<item>
-<title>SP: C+ Toros</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Toros </link>
-</item>
-<item>
-<title>SP: Ltc</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Ltc </link>
-</item>
-<item>
-<title>SP: C+ Deportes</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Deportes </link>
-</item>
-<item>
-<title>SP: C+ Deportes 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Deportes 2 </link>
-</item>
-<item>
-<title>SP: C+ Futbol HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Futbol HD </link>
-</item>
-<item>
-<title>SP: C + Futbol</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C + Futbol </link>
-</item>
-<item>
-<title>SP: Teledeporte</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Teledeporte </link>
-</item>
-<item>
-<title>SP: Bein Sports</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Bein Sports </link>
-</item>
-<item>
-<title>SP: Real Madrid TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Real Madrid TV </link>
-</item>
-<item>
-<title>SP: Barca TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Barca TV </link>
-</item>
-<item>
-<title>SP: Euro Sport 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 1 </link>
-</item>
-<item>
-<title>SP: Euro Sport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Euro Sport 2 </link>
-</item>
-<item>
-<title>SP: Moto GP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Moto GP </link>
-</item>
-<item>
-<title>SP: C+ Golf</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Golf </link>
-</item>
-<item>
-<title>SP: Canal Odisea</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Odisea </link>
-</item>
-<item>
-<title>SP: National Geographic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geographic </link>
-</item>
-<item>
-<title>SP: National Geographic Wild HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: National Geographic Wild HD </link>
-</item>
-<item>
-<title>SP: Discovery</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Discovery </link>
-</item>
-<item>
-<title>SP: Historia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Historia </link>
-</item>
-<item>
-<title>SP: Canal Decasa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Decasa </link>
-</item>
-<item>
-<title>SP: Caza Y Pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Caza Y Pesca </link>
-</item>
-<item>
-<title>SP: Viajar</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Viajar </link>
-</item>
-<item>
-<title>SP: Canal Cocina</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Cocina </link>
-</item>
-<item>
-<title>SP: Mtv Espana</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Mtv Espana </link>
-</item>
-<item>
-<title>SP: Mezzo</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Mezzo </link>
-</item>
-<item>
-<title>SP: Classica</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Classica </link>
-</item>
-<item>
-<title>SP: Disney Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney Channel </link>
-</item>
-<item>
-<title>SP: Disney XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Disney XD </link>
-</item>
-<item>
-<title>SP: Boing</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Boing </link>
-</item>
-<item>
-<title>SP: Canal Panda</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal Panda </link>
-</item>
-<item>
-<title>SP: Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Baby TV </link>
-</item>
-<item>
-<title>SP: Canal 24 Horas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Canal 24 Horas </link>
-</item>
-<item>
-<title>SP: 24 Horas</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 24 Horas </link>
-</item>
-<item>
-<title>SP: Fox News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Fox News </link>
-</item>
-<item>
-<title>SP: TV International Europa</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV International Europa </link>
-</item>
-<item>
-<title>SP: C+ Liga</title>
-<link>plugin://plugin.video.f4mTester/?url=http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: C+ Liga </link>
-</item>
+#EXTINF:-1,---- ESPANIA ------
+http://51.255.88.234:8080/live/amir2/amir2/2919.m3u8
+#EXTINF:-1,ES: LaLiga TV HD
+http://51.255.88.234:8080/live/amir2/amir2/9805.m3u8
+#EXTINF:-1,ES: La Liga TV
+http://51.255.88.234:8080/live/amir2/amir2/9631.m3u8
+#EXTINF:-1,ES: GOL HD
+http://51.255.88.234:8080/live/amir2/amir2/10173.m3u8
+#EXTINF:-1,ES: BeIN LIGA HD
+http://51.255.88.234:8080/live/amir2/amir2/9500.m3u8
+#EXTINF:-1,ES: beIN Sports España ES HD
+http://51.255.88.234:8080/live/amir2/amir2/11170.m3u8
+#EXTINF:-1,ES: beIN Sports España ES
+http://51.255.88.234:8080/live/amir2/amir2/11116.m3u8
+#EXTINF:-1,beIN Sports MAX 1 Espana HD ES
+http://51.255.88.234:8080/live/amir2/amir2/11113.m3u8
+#EXTINF:-1,beIN Sports MAX 2 Espana HD ES
+http://51.255.88.234:8080/live/amir2/amir2/11114.m3u8
+#EXTINF:-1,beIN Sports MAX 3 Espana HD ES
+http://51.255.88.234:8080/live/amir2/amir2/11115.m3u8
+#EXTINF:-1,ES: BEIN MAX 1
+http://51.255.88.234:8080/live/amir2/amir2/11150.m3u8
+#EXTINF:-1,ES: BEIN MAX 2
+http://51.255.88.234:8080/live/amir2/amir2/11149.m3u8
+#EXTINF:-1,ES: BEIN MAX 3
+http://51.255.88.234:8080/live/amir2/amir2/11148.m3u8
+#EXTINF:-1,ES: BEIN MAX 4
+http://51.255.88.234:8080/live/amir2/amir2/11147.m3u8
+#EXTINF:-1,ES: BEIN MAX 5
+http://51.255.88.234:8080/live/amir2/amir2/11146.m3u8
+#EXTINF:-1,ES: BEIN MAX 6
+http://51.255.88.234:8080/live/amir2/amir2/11145.m3u8
+#EXTINF:-1,ES: BEIN MAX 7
+http://51.255.88.234:8080/live/amir2/amir2/11144.m3u8
+#EXTINF:-1,ES: BEIN MAX 8
+http://51.255.88.234:8080/live/amir2/amir2/11143.m3u8
+#EXTINF:-1,ES: beIN LaLiga 1 (event only)
+http://51.255.88.234:8080/live/amir2/amir2/10730.m3u8
+#EXTINF:-1,ES: beIN LaLiga 2 (event only)
+http://51.255.88.234:8080/live/amir2/amir2/10731.m3u8
+#EXTINF:-1,ES: beIN LaLiga 3 (event only)
+http://51.255.88.234:8080/live/amir2/amir2/10732.m3u8
+#EXTINF:-1,ES: Movistar Partidazo (event only)
+http://51.255.88.234:8080/live/amir2/amir2/10733.m3u8
+#EXTINF:-1,ES: CANAL+  FUTBOL HD
+http://51.255.88.234:8080/live/amir2/amir2/8443.m3u8
+#EXTINF:-1,ES: CANAL+  FUTBOL
+http://51.255.88.234:8080/live/amir2/amir2/1824.m3u8
+#EXTINF:-1,ES: CANAL+  DEPORTES
+http://51.255.88.234:8080/live/amir2/amir2/1876.m3u8
+#EXTINF:-1,ES: CANAL+  DEPORTES 2
+http://51.255.88.234:8080/live/amir2/amir2/4835.m3u8
+#EXTINF:-1,ES: Teledeporte HD
+http://51.255.88.234:8080/live/amir2/amir2/9473.m3u8
+#EXTINF:-1,ES: MOVISTAR F1 HD
+http://51.255.88.234:8080/live/amir2/amir2/6794.m3u8
+#EXTINF:-1,ES: MOVISTAR MOTO GP HD
+http://51.255.88.234:8080/live/amir2/amir2/2085.m3u8
+#EXTINF:-1,ES: Teledeporte
+http://51.255.88.234:8080/live/amir2/amir2/3921.m3u8
+#EXTINF:-1,ES: Barca TV
+http://51.255.88.234:8080/live/amir2/amir2/2720.m3u8
+#EXTINF:-1,ES: Real Madrid tv HD
+http://51.255.88.234:8080/live/amir2/amir2/5028.m3u8
+#EXTINF:-1,ES: #0 HD
+http://51.255.88.234:8080/live/amir2/amir2/8935.m3u8
+#EXTINF:-1,ES: TVE 1 HD
+http://51.255.88.234:8080/live/amir2/amir2/2718.m3u8
+#EXTINF:-1,ES: TVE 2
+http://51.255.88.234:8080/live/amir2/amir2/5160.m3u8
+#EXTINF:-1,ES: TV3 24
+http://51.255.88.234:8080/live/amir2/amir2/8938.m3u8
+#EXTINF:-1,ES: La Sexta HD
+http://51.255.88.234:8080/live/amir2/amir2/4992.m3u8
+#EXTINF:-1,SP: TELECINCO
+http://51.255.88.234:8080/live/amir2/amir2/4075.m3u8
+#EXTINF:-1,ES: FDF
+http://51.255.88.234:8080/live/amir2/amir2/5023.m3u8
+#EXTINF:-1,ES: CUATRO
+http://51.255.88.234:8080/live/amir2/amir2/4993.m3u8
+#EXTINF:-1,ES: Antena 3 HD
+http://51.255.88.234:8080/live/amir2/amir2/4994.m3u8
+#EXTINF:-1,ES: TV3 CAT HD
+http://51.255.88.234:8080/live/amir2/amir2/5046.m3u8
+#EXTINF:-1,ES: Divinity
+http://51.255.88.234:8080/live/amir2/amir2/7829.m3u8
+#EXTINF:-1,ES: TV Galicia
+http://51.255.88.234:8080/live/amir2/amir2/8937.m3u8
+#EXTINF:-1,ES: TELECINCO HD
+http://51.255.88.234:8080/live/amir2/amir2/8864.m3u8
+#EXTINF:-1,ES: TCM HD
+http://51.255.88.234:8080/live/amir2/amir2/8934.m3u8
+#EXTINF:-1,ES: Andalucia TV
+http://51.255.88.234:8080/live/amir2/amir2/8936.m3u8
+#EXTINF:-1,ES: PARAMOUNT CH
+http://51.255.88.234:8080/live/amir2/amir2/5039.m3u8
+#EXTINF:-1,ES: DCINE
+http://51.255.88.234:8080/live/amir2/amir2/5154.m3u8
+#EXTINF:-1,ES: CAZA Y PESCA
+http://51.255.88.234:8080/live/amir2/amir2/5162.m3u8
+#EXTINF:-1,ES: CANAL+ TOROS
+http://51.255.88.234:8080/live/amir2/amir2/5152.m3u8
+#EXTINF:-1,ES: CANAL SERIES
+http://51.255.88.234:8080/live/amir2/amir2/5153.m3u8
+#EXTINF:-1,ES: CANAL HOLLYWOOD
+http://51.255.88.234:8080/live/amir2/amir2/5150.m3u8
+#EXTINF:-1,ES: M ESTRENOS HD
+http://51.255.88.234:8080/live/amir2/amir2/5155.m3u8
+#EXTINF:-1,ES: CANAL+ COMEDIA HD
+http://51.255.88.234:8080/live/amir2/amir2/5156.m3u8
+#EXTINF:-1,ES: CALLE 13
+http://51.255.88.234:8080/live/amir2/amir2/5159.m3u8
+#EXTINF:-1,ES: NOVA
+http://51.255.88.234:8080/live/amir2/amir2/5163.m3u8
+#EXTINF:-1,ES: Canal Cocina
+http://51.255.88.234:8080/live/amir2/amir2/5164.m3u8
+#EXTINF:-1,ES: TELEVISA HD
+http://51.255.88.234:8080/live/amir2/amir2/3512.m3u8
+#EXTINF:-1,ES: M Accion HD
+http://51.255.88.234:8080/live/amir2/amir2/2991.m3u8
+#EXTINF:-1,ES: 40TV
+http://51.255.88.234:8080/live/amir2/amir2/6795.m3u8
+#EXTINF:-1,ES: TNT
+http://51.255.88.234:8080/live/amir2/amir2/8567.m3u8
+#EXTINF:-1,ES: SyFy HD
+http://51.255.88.234:8080/live/amir2/amir2/8565.m3u8
+#EXTINF:-1,ES: Energy
+http://51.255.88.234:8080/live/amir2/amir2/8570.m3u8
+#EXTINF:-1,ES: Comedy Central
+http://51.255.88.234:8080/live/amir2/amir2/8566.m3u8
+#EXTINF:-1,ES: AXN HD
+http://51.255.88.234:8080/live/amir2/amir2/8568.m3u8
+#EXTINF:-1,ES: AXN White
+http://51.255.88.234:8080/live/amir2/amir2/8569.m3u8
+#EXTINF:-1,ES: A&E
+http://51.255.88.234:8080/live/amir2/amir2/3448.m3u8
+#EXTINF:-1,ES: Non Stop People
+http://51.255.88.234:8080/live/amir2/amir2/9496.m3u8
+#EXTINF:-1,ES: MTV
+http://51.255.88.234:8080/live/amir2/amir2/9477.m3u8
+#EXTINF:-1,ES: Caza y Pesca HD
+http://51.255.88.234:8080/live/amir2/amir2/9474.m3u8
+#EXTINF:-1,ES: Boing
+http://51.255.88.234:8080/live/amir2/amir2/9499.m3u8
+#EXTINF:-1,ES: AMC HD
+http://51.255.88.234:8080/live/amir2/amir2/9476.m3u8
+#EXTINF:-1,ES: 8TV
+http://51.255.88.234:8080/live/amir2/amir2/9498.m3u8
+#EXTINF:-1,ES: 13 TV
+http://51.255.88.234:8080/live/amir2/amir2/9497.m3u8
+#EXTINF:-1,ES: Taquilla 1
+http://51.255.88.234:8080/live/amir2/amir2/8563.m3u8
+#EXTINF:-1,ES: Taquilla 2
+http://51.255.88.234:8080/live/amir2/amir2/8561.m3u8
+#EXTINF:-1,ES: Taquilla 3
+http://51.255.88.234:8080/live/amir2/amir2/8560.m3u8
+#EXTINF:-1,ES: Taquilla 4
+http://51.255.88.234:8080/live/amir2/amir2/8559.m3u8
+#EXTINF:-1,ES: Taquilla 5
+http://51.255.88.234:8080/live/amir2/amir2/8558.m3u8
+#EXTINF:-1,ES: Taquilla 6
+http://51.255.88.234:8080/live/amir2/amir2/8557.m3u8
+#EXTINF:-1,ES: Taquilla 7
+http://51.255.88.234:8080/live/amir2/amir2/8556.m3u8
+#EXTINF:-1,ES: Taquilla 8
+http://51.255.88.234:8080/live/amir2/amir2/8555.m3u8
+#EXTINF:-1,ES: Taquilla 9
+http://51.255.88.234:8080/live/amir2/amir2/8554.m3u8
+#EXTINF:-1,ES: Taquilla 10
+http://51.255.88.234:8080/live/amir2/amir2/8562.m3u8
