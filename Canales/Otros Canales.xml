@@ -3,221 +3,221 @@
 #EXTINF:-1,Canales Latinos
 
 #EXTINF:-1,Warner Channel
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18d6h97yvzLwjyuH8DQU4qwTyZDHcJX9%2FKoDCZv5IvPxsMMqP7t1X4ve5ThyO38y9KVonlSma04pA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18d6h97yvzLwjyuH8DQU4qwTyZDHcJX9%2FKoDCZv5IvPxsMMqP7t1X4ve5ThyO38y9KVonlSma04pA%3D%3D
 
 
 #EXTINF:-1,Warner Channel
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Bi%2B6QlnRsHMoDZtQKsi74wzsuFrR59D0rD0TwqZQSrYT9LQ%2FFFAxY0qKB97gUauhBvgMjcJe4ldw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Bi%2B6QlnRsHMoDZtQKsi74wzsuFrR59D0rD0TwqZQSrYT9LQ%2FFFAxY0qKB97gUauhBvgMjcJe4ldw%3D%3D
 
 
 #EXTINF:-1,Directv
 https://live10.userapi.com/620007/live/0xhZ4rlAf6U85cch/playlist.m3u8
 
 #EXTINF:-1,Bein Sports Ñ
-http://edge505.livesports.pw/live/verbeinsportn24048f7344dc762b8/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge505.livesports.pw/live/verbeinsportn24048f7344dc762b8/index.m3u8
 
 
  
 #EXTINF:-1,FOX
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18AP46ssUZzsUs%2FEasSI4R58emWkf0LoDowectnho0o97o%2BmFZW3FY1rQo8jXq7TeZKDmUpEWJm3A%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18AP46ssUZzsUs%2FEasSI4R58emWkf0LoDowectnho0o97o%2BmFZW3FY1rQo8jXq7TeZKDmUpEWJm3A%3D%3D
 
 
 
 #EXTINF:-1,FOX
-http://edge7.telesport.pw/live/foxlatino/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge7.telesport.pw/live/foxlatino/index.m3u8
 
 
 #EXTINF:-1,FOXHD
-http://edge8.telesport.pw/live/foxlatino/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge8.telesport.pw/live/foxlatino/index.m3u8
 
 #EXTINF:-1,FOX 1
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX187HqAk6kCATNMlu00cabATfGj9B3ASoYNCLkWir0m2n6xIv1utFtSUpEbhN0ztfH3czWSgEcnPOA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX187HqAk6kCATNMlu00cabATfGj9B3ASoYNCLkWir0m2n6xIv1utFtSUpEbhN0ztfH3czWSgEcnPOA%3D%3D
 
 
 #EXTINF:-1,Fox Action
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18b6ENJ8MMzz%2BNa4Jho%2BAYTJ0A4SUVy%2B0UpbrRAP7xvGWHN0WHkrZjsAQ3uxjth33ETjE7oZauwGQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18b6ENJ8MMzz%2BNa4Jho%2BAYTJ0A4SUVy%2B0UpbrRAP7xvGWHN0WHkrZjsAQ3uxjth33ETjE7oZauwGQ%3D%3D
 
 #EXTINF:-1,Fox Action
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FYre57%2FC5DYgnMjhMxMULW5ehbhuH049uMZOqTLdHaopZ2FSueUrlkY5kLEKnRSVg0%2Bc%2FnfxlqqQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FYre57%2FC5DYgnMjhMxMULW5ehbhuH049uMZOqTLdHaopZ2FSueUrlkY5kLEKnRSVg0%2Bc%2FnfxlqqQ%3D%3D
 
 
 #EXTINF:-1,Fox Movies
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B74HfatAGbegemtHu4EekEn%2Bj3L9t9ndKm4Nx4mrWYp3k32fToZVallI0NciqI%2FkdQX2c6Sx%2BOFA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B74HfatAGbegemtHu4EekEn%2Bj3L9t9ndKm4Nx4mrWYp3k32fToZVallI0NciqI%2FkdQX2c6Sx%2BOFA%3D%3D
 
 #EXTINF:-1,Fox Movies
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fw537FFTZkpWEg9y8xP5XR2CIV3XTBCLN1Qq7DJAaIcR8yA2%2BcgRoJJ5cn05vcPA1dCfI9nHck0g%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fw537FFTZkpWEg9y8xP5XR2CIV3XTBCLN1Qq7DJAaIcR8yA2%2BcgRoJJ5cn05vcPA1dCfI9nHck0g%3D%3D
 
 
 #EXTINF:-1,FX
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18LcZPS%2B0%2BS4ePO11S6WSopEpCqdvM3kWm7Y5vStfGmZGUwVXJDoWtFk9zXClirbHV6mIeq1kYTSw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18LcZPS%2B0%2BS4ePO11S6WSopEpCqdvM3kWm7Y5vStfGmZGUwVXJDoWtFk9zXClirbHV6mIeq1kYTSw%3D%3D
 
 
 #EXTINF:-1,MTV
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BvGS6Ms6eq2ndZ32Mg9ygB8cXrVycqx7Mq7jEpbYYrOQOW1hcw%2B7L87eDPjFtsxRwNCUEYNch4Ag%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BvGS6Ms6eq2ndZ32Mg9ygB8cXrVycqx7Mq7jEpbYYrOQOW1hcw%2B7L87eDPjFtsxRwNCUEYNch4Ag%3D%3D
 
 
 #EXTINF:-1,MTV
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18YVnPd%2Bsr0SSwhpYZ63DVp5FKwU6gPK%2B6%2B%2Flvf8jP8ZhToGrl3O8ufBtvBzKfCjYpfhhIfoscMSA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18YVnPd%2Bsr0SSwhpYZ63DVp5FKwU6gPK%2B6%2B%2Flvf8jP8ZhToGrl3O8ufBtvBzKfCjYpfhhIfoscMSA%3D%3D
 
 #EXTINF:-1,Distrito Comedia
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FAmzbTAe5vzLfBBjlyUajWzEyger40lUIT8wTHUycxWTE%2BSuRnBwlafj43IeSzrv9C1MkDwBvlQg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FAmzbTAe5vzLfBBjlyUajWzEyger40lUIT8wTHUycxWTE%2BSuRnBwlafj43IeSzrv9C1MkDwBvlQg%3D%3D
 
 
 #EXTINF:-1,Boomerang
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18zqDk7J4PdMMfJMpTV0ltU%2F37hqO0S%2FCaTtpPUzEq92KekB6Wrds5bGi%2BWurIpDHP3TB3IMTls6g%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18zqDk7J4PdMMfJMpTV0ltU%2F37hqO0S%2FCaTtpPUzEq92KekB6Wrds5bGi%2BWurIpDHP3TB3IMTls6g%3D%3D
 
 
 #EXTINF:-1,History Channel
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FqrYmvELFlJW3mYQavTi2%2BMKdBCIQ%2BLZDlyc3GZ%2B6ZGD4FUdaVzioNWkuje9kHlFraFSIWzCGVZA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FqrYmvELFlJW3mYQavTi2%2BMKdBCIQ%2BLZDlyc3GZ%2B6ZGD4FUdaVzioNWkuje9kHlFraFSIWzCGVZA%3D%3D
 
 #EXTINF:-1,Telemundo Internacional
-http://edge501.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge501.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
 
 
 #EXTINF:-1,Telemundo
-http://edge5.telesport.pw/live/telemundo/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge5.telesport.pw/live/telemundo/index.m3u8
 
 #EXTINF:-1,Telemundo
-http://edge7.telesport.pw/live/telemundo/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge7.telesport.pw/live/telemundo/index.m3u8
 
 #EXTINF:-1,El Canal de las Estrellas
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX193qTHv9un%2B7nL74gBp%2FtizYf%2BxRrakNyQ8W%2F9amhVy47mmRwHsEgNBMLjbJIt5juR%2F1fxyHss1xg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX193qTHv9un%2B7nL74gBp%2FtizYf%2BxRrakNyQ8W%2F9amhVy47mmRwHsEgNBMLjbJIt5juR%2F1fxyHss1xg%3D%3D
 
  
 #EXTINF:-1,Cartoon Network
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19s5PCG55GBoG9NTE8PdCHsmwNHxhRz7BhTBY2Cgs1DeWrBLdhOlSj%2BQQL%2FUAw13A2pVRTl0uULhQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19s5PCG55GBoG9NTE8PdCHsmwNHxhRz7BhTBY2Cgs1DeWrBLdhOlSj%2BQQL%2FUAw13A2pVRTl0uULhQ%3D%3D
 
 
 #EXTINF:-1,ToonCast
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B0fVOG1qdMiKuOa27G3Je%2FYIbwYLMGEiBwRRHtZMJfS9mSGoK8GQ4x7PrQZhg7mba21RHgwRjRhA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B0fVOG1qdMiKuOa27G3Je%2FYIbwYLMGEiBwRRHtZMJfS9mSGoK8GQ4x7PrQZhg7mba21RHgwRjRhA%3D%3D
 
 #EXTINF:-1,Nick HD
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BuURf9JqSOddTPtVCvXIcPObiHNTgaLyYj1ZqdLMue2Dkk7mqtBwP9b52egp8s31vMFJhApGgsuA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BuURf9JqSOddTPtVCvXIcPObiHNTgaLyYj1ZqdLMue2Dkk7mqtBwP9b52egp8s31vMFJhApGgsuA%3D%3D
 
 #EXTINF:-1,Nick Toons
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fzn2Zn6bjd6Ulx%2FayBOhHADRwlqg7qjNPdKEvXNMUP1BlgsXoVeZPPNAPx6loDMEb%2FOY8jPyxXNg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fzn2Zn6bjd6Ulx%2FayBOhHADRwlqg7qjNPdKEvXNMUP1BlgsXoVeZPPNAPx6loDMEb%2FOY8jPyxXNg%3D%3D
 
  
 #EXTINF:-1,Disney XD
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FbkagZqZC4sTeVP1I1OE%2BavMEdr6z13rtpPnFXO%2Bu3QkOApVGdH2C8LxrLPc4xB%2B77%2F3wcvtxECw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FbkagZqZC4sTeVP1I1OE%2BavMEdr6z13rtpPnFXO%2Bu3QkOApVGdH2C8LxrLPc4xB%2B77%2F3wcvtxECw%3D%3D
 
 
 #EXTINF:-1,Disney Channel
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BMFj9BHiqpLJXhlpLf5407mhkizP9YjK8fZMIs9JgftIEPNOq%2FSNHEhps8wXrsNraAWQX%2By3DjDQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BMFj9BHiqpLJXhlpLf5407mhkizP9YjK8fZMIs9JgftIEPNOq%2FSNHEhps8wXrsNraAWQX%2By3DjDQ%3D%3D
 
 #EXTINF:-1,Disney Junior
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B1rIqITMFwrQuDg8BjNgce4aN6I9wjI9j8ucZn5miSQPjcJ%2Fj4xO%2FCmbq%2FM0PAAdgU8dlRoCPJ7g%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2B1rIqITMFwrQuDg8BjNgce4aN6I9wjI9j8ucZn5miSQPjcJ%2Fj4xO%2FCmbq%2FM0PAAdgU8dlRoCPJ7g%3D%3D
 
 
 #EXTINF:-1,Studio Universal
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BTCGBU5%2BEZMIgjGGH7zOnNpbUd4ERSs5lQiSq%2BN8qU5KJlzF%2BwEwnY27c4oRgMSpR04GQW0s7vJA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BTCGBU5%2BEZMIgjGGH7zOnNpbUd4ERSs5lQiSq%2BN8qU5KJlzF%2BwEwnY27c4oRgMSpR04GQW0s7vJA%3D%3D
 
 #EXTINF:-1,TNT
-http://cdn3.shurs.xyz/verliga/7/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cdn3.shurs.xyz/verliga/7/playlist.m3u8
 
 
 #EXTINF:-1,TNT
 
-http://cdn1.shurs.xyz/verliga/7/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cdn1.shurs.xyz/verliga/7/playlist.m3u8
 
 
 #EXTINF:-1,TNT Series
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19uWa96Hdg9qkI3vtjrOLW7WTHJf1ZMqiEMQ8IlBdb6yagiQcYSsrOy9iowR%2FDOxdpbN%2BnpHiSKTg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19uWa96Hdg9qkI3vtjrOLW7WTHJf1ZMqiEMQ8IlBdb6yagiQcYSsrOy9iowR%2FDOxdpbN%2BnpHiSKTg%3D%3D
 
  
 #EXTINF:-1,CineCanal
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2F8ash5NdPWXukQC%2FPfp2X9yyzj%2F7aRidD6CUG8qml0Y1aCO%2B%2BsPniojz40GzGX%2B7kad88K3EOotQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2F8ash5NdPWXukQC%2FPfp2X9yyzj%2F7aRidD6CUG8qml0Y1aCO%2B%2BsPniojz40GzGX%2B7kad88K3EOotQ%3D%3D
 
 #EXTINF:-1,HBO
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2Bpw%2B0K5IjFM9IGN9aIeqAYE%2FPHh49Ozk45rU%2BMg93QDexsuYLaA25lK2UUH3a2yMMvQrwfnCYeHw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2Bpw%2B0K5IjFM9IGN9aIeqAYE%2FPHh49Ozk45rU%2BMg93QDexsuYLaA25lK2UUH3a2yMMvQrwfnCYeHw%3D%3D
 
 #EXTINF:-1,HBO 2
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18ZZEngZEdefWdZbb6%2FgR5aYL2PlBJLkt8KRyTVef5GFRnKp0cOJuPkbZybgslDQGHLFvMxhZF8FA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18ZZEngZEdefWdZbb6%2FgR5aYL2PlBJLkt8KRyTVef5GFRnKp0cOJuPkbZybgslDQGHLFvMxhZF8FA%3D%3D
 3D
 
 
 #EXTINF:-1,HBO PLUS
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FI9kyUwVrLJZ2YkWhKebr4eHBKS2cRUzaAJbBYytxxT9OXZabXxfYpXooQQcwI6%2FBdmqrunhdDmg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FI9kyUwVrLJZ2YkWhKebr4eHBKS2cRUzaAJbBYytxxT9OXZabXxfYpXooQQcwI6%2FBdmqrunhdDmg%3D%3D
 
 #EXTINF:-1,HBO FAMILY
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18GuF17dulmI8cPiLM%2FOZPyEB04vaKWYLOcRrXYRbMUco48zw09gotCrsrkx4kMYs30kQpX0ekTtA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18GuF17dulmI8cPiLM%2FOZPyEB04vaKWYLOcRrXYRbMUco48zw09gotCrsrkx4kMYs30kQpX0ekTtA%3D%3D
 
 
 #EXTINF:-1,Golden HD
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX196uxvIr250D8AAYdAdgYQZ%2FdGjsBysEihiOUIJTak1MihQvTz1L%2BgNq%2FIOOQ4jpQhJQGdC471fNA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX196uxvIr250D8AAYdAdgYQZ%2FdGjsBysEihiOUIJTak1MihQvTz1L%2BgNq%2FIOOQ4jpQhJQGdC471fNA%3D%3D
 
 #EXTINF:-1,Golden Edge
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FAF2xnml8o9y7FhE6kBr0plLKxrbPTPwlKJPLVmM%2B%2BkwMtQSNGXM9f5Bz7%2BHNKOH4tgdpwI0O%2B8g%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FAF2xnml8o9y7FhE6kBr0plLKxrbPTPwlKJPLVmM%2B%2BkwMtQSNGXM9f5Bz7%2BHNKOH4tgdpwI0O%2B8g%3D%3D
 
 
 
 #EXTINF:-1,Cinemax
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BN6YovdNgwGvrqszB8YzWH%2BUfkXqsAwh3ItmNXhHK%2BVRSQPTlWyBWse1mWOcIDpJLgcyUrA5C%2FbA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BN6YovdNgwGvrqszB8YzWH%2BUfkXqsAwh3ItmNXhHK%2BVRSQPTlWyBWse1mWOcIDpJLgcyUrA5C%2FbA%3D%3D
 
 #EXTINF:-1,Space
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19JfTyrm1t2kYLD3WXu%2BWhIInEJYaxNbRi90rDKvZHLMZxMmslTybn4zuXqoOcyIUu7M2nAyGWkrg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19JfTyrm1t2kYLD3WXu%2BWhIInEJYaxNbRi90rDKvZHLMZxMmslTybn4zuXqoOcyIUu7M2nAyGWkrg%3D%3D
 
 
 #EXTINF:-1,Universal Channel
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fep%2BshByBNktzqyT%2BW8NqoY3DPu0lNAgysjUSKmV6pC4Eu3rsmxPYqu4ZFCHcvwnJfxmsMKXCFEw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Fep%2BshByBNktzqyT%2BW8NqoY3DPu0lNAgysjUSKmV6pC4Eu3rsmxPYqu4ZFCHcvwnJfxmsMKXCFEw%3D%3D
 
 
 #EXTINF:-1,Film Zone
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BGbBXiPRh%2Bqd5%2B4JnFFTD6IbLd3w2KbZkWXcqqi6ns0GfPfkQSV9Q8Dgag2IZ3JwTd792PhniPhQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BGbBXiPRh%2Bqd5%2B4JnFFTD6IbLd3w2KbZkWXcqqi6ns0GfPfkQSV9Q8Dgag2IZ3JwTd792PhniPhQ%3D%3D
 
 
 
 #EXTINF:-1,AMC HD
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FYDx4KzNauyGVzK%2FbxqXn3Pq6QEi7UI%2FY84zX00H7Ayc2Uiwc5MbBpy7SLyT8N7dV6e0m0sP0HGQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FYDx4KzNauyGVzK%2FbxqXn3Pq6QEi7UI%2FY84zX00H7Ayc2Uiwc5MbBpy7SLyT8N7dV6e0m0sP0HGQ%3D%3D
 
 #EXTINF:-1,AXN
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18kX3Y4%2FHLx8%2FiqVMCLv4xqw60vxZ3yM3cU16Q2KLHyTPfdw6oZggObn0qCj8cXFwzR73%2BR9rjilQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18kX3Y4%2FHLx8%2FiqVMCLv4xqw60vxZ3yM3cU16Q2KLHyTPfdw6oZggObn0qCj8cXFwzR73%2BR9rjilQ%3D%3D
 
 #EXTINF:-1,Sony
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FTuaV%2FDPuwP1cwqpNrzj%2Fe649X4C9%2FLerK7%2Fpqd4pldbPDWhr7fyNkQlnvT6Bq25qn3KKGn5JwJA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FTuaV%2FDPuwP1cwqpNrzj%2Fe649X4C9%2FLerK7%2Fpqd4pldbPDWhr7fyNkQlnvT6Bq25qn3KKGn5JwJA%3D%3D
 
 
 #EXTINF:-1,Nat Geo
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BfvLmip4OrEQr9hQHWT3G4coDfyfMscDemXlfmbonncdrK8X5%2BNme5IdFZr4auBjH8dWdvBL%2FPBg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BfvLmip4OrEQr9hQHWT3G4coDfyfMscDemXlfmbonncdrK8X5%2BNme5IdFZr4auBjH8dWdvBL%2FPBg%3D%3D
 
 #EXTINF:-1,Animal Planet
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BQcEUsNjyALAnvSHpj5SvnmjaF8HeOGCTk4IqOARL3%2FhdDSACifbx1ePSfZuaUy5wDXbJ2s0%2BFaw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BQcEUsNjyALAnvSHpj5SvnmjaF8HeOGCTk4IqOARL3%2FhdDSACifbx1ePSfZuaUy5wDXbJ2s0%2BFaw%3D%3D
 
 #EXTINF:-1,SyFy
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FDEhKmatcfcucu1k6Lo2Rn8wKXf9LwXq1VG%2BHVdrLfbnqkv4LB10sJsoArd5M4m16S7WcRI72f%2FQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FDEhKmatcfcucu1k6Lo2Rn8wKXf9LwXq1VG%2BHVdrLfbnqkv4LB10sJsoArd5M4m16S7WcRI72f%2FQ%3D%3D
 
 
 #EXTINF:-1,Latina TV
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
 
 #EXTINF:-1,Latina TV
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live/stream2.m3u8
 
 
 #EXTINF:-1,Deportes
 
 #EXTINF:-1,Univision TDN
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FbDEwkZbMwwEK98Zmu4%2FodPTTkBjcxX9yJKt1lz6jQepkdXFXOkCoQjPXRQEDAX8xm9EadmVHxdg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FbDEwkZbMwwEK98Zmu4%2FodPTTkBjcxX9yJKt1lz6jQepkdXFXOkCoQjPXRQEDAX8xm9EadmVHxdg%3D%3D
 
 
  
 #EXTINF:-1,Bein Sport La Liga
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19FooooPwFMJ%2BBp6zWVcU1fEcyadOFSFPTsZEeBd0vvpGdzwHD4Bgye%2B%2FcKlwh7RTIPMlmzLqHkVg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19FooooPwFMJ%2BBp6zWVcU1fEcyadOFSFPTsZEeBd0vvpGdzwHD4Bgye%2B%2FcKlwh7RTIPMlmzLqHkVg%3D%3D
 
 
 #EXTINF:-1,Bein Sport La Liga
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B0DROnyXxOddYEW7vD6yUul3utOSKstebI%2FGQQppmC9kxebavVGDvB59EGAe1SM0tIW56661MRIA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2B0DROnyXxOddYEW7vD6yUul3utOSKstebI%2FGQQppmC9kxebavVGDvB59EGAe1SM0tIW56661MRIA%3D%3D
 
 #EXTINF:-1,Gol Tv
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BEPAYkyR%2FMjKGY%2B0bCukJqtiuOuoWNMFFwZQDTenedDnM3osImihZ2%2FOLgUrbsKE6qqoavevSGOw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BEPAYkyR%2FMjKGY%2B0bCukJqtiuOuoWNMFFwZQDTenedDnM3osImihZ2%2FOLgUrbsKE6qqoavevSGOw%3D%3D
 
 
 #EXTINF:-1,TDN
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18Pu8Z1jJtuE5tnxawQ6NG9pm7rGUP4bN9gZRj8N99958giX8s5%2F85G1EtNZEt5BgpBH%2FC1RNR5Hw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18Pu8Z1jJtuE5tnxawQ6NG9pm7rGUP4bN9gZRj8N99958giX8s5%2F85G1EtNZEt5BgpBH%2FC1RNR5Hw%3D%3D
 
 
 #EXTINF:-1,ESPN+
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Br5kYvKayt6qKdftqglJZzJfMEj%2BRlXOBGhV4MkGnOL8HlUJutNqqD8UWe0Y6Ac2ZtcSdKdVPwGw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2Br5kYvKayt6qKdftqglJZzJfMEj%2BRlXOBGhV4MkGnOL8HlUJutNqqD8UWe0Y6Ac2ZtcSdKdVPwGw%3D%3D
 
 #EXTINF:-1,ESPN
 https://live13.userapi.com/639912/live/1gJD5yNAfz8Y-Icl/playlist.m3u8
@@ -228,30 +228,30 @@ https://live2.userapi.com/637609/live/1kYH5yNAfz-wm4Yz/playlist.m3u8
 
  
 #EXTINF:-1,ESPN 3
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FmRplHsVSX%2FcV6fkH32EnJSiC9Kl%2BOAekrWKGoO%2BEs8kbjHkqbh%2B8wYVij5mY5JhyCd4ZvU45L3A%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FmRplHsVSX%2FcV6fkH32EnJSiC9Kl%2BOAekrWKGoO%2BEs8kbjHkqbh%2B8wYVij5mY5JhyCd4ZvU45L3A%3D%3D
 
  
 #EXTINF:-1,Fox Sports
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19%2FssalIs99zt%2FUvEhFHjy68n3qoauZVWImPQx%2FleVNj0f9WWqyhwb46cnWH7yscfxKX25KJuh%2FyQ%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19%2FssalIs99zt%2FUvEhFHjy68n3qoauZVWImPQx%2FleVNj0f9WWqyhwb46cnWH7yscfxKX25KJuh%2FyQ%3D%3D
  
 #EXTINF:-1,Fox Sports 2
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BO8Voqnp6k3WiFocbiYyze56C1KWCLyc31cw9mQ5eqgE6ArlAr1%2FG%2BxJbjJvrwdbj2wpxPW53HYg%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BO8Voqnp6k3WiFocbiYyze56C1KWCLyc31cw9mQ5eqgE6ArlAr1%2FG%2BxJbjJvrwdbj2wpxPW53HYg%3D%3D
  
 #EXTINF:-1,Bein Sport España
-http://edge504.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://edge504.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
 
 
 #EXTINF:-1,Win Sports
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18a1OPybVir1VJHpPQyLRjanu7qQkvtXqlfPyMtKjP1RtLPTcavzxZuvSDvwe69NGki%2B5xPwFr%2BGA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18a1OPybVir1VJHpPQyLRjanu7qQkvtXqlfPyMtKjP1RtLPTcavzxZuvSDvwe69NGki%2B5xPwFr%2BGA%3D%3D
 
 #EXTINF:-1,TDN
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18jy6wvgXFoabAgJDLZ78Gfvyf6CFV%2BoTLsZ164kBqWN%2FAFz4tzgWsfZxWICLrbLKD28k5d1vh6jA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18jy6wvgXFoabAgJDLZ78Gfvyf6CFV%2BoTLsZ164kBqWN%2FAFz4tzgWsfZxWICLrbLKD28k5d1vh6jA%3D%3D
 
 
 
 #EXTINF:-1,Gol Peru
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FzMwoWhiKXaaA7L%2BPVPB52tybeOlNbcqJQPe%2B4B0OlWfo9VpKSAH1pr1f1qVvLCs75fTQ9qMghLw%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FzMwoWhiKXaaA7L%2BPVPB52tybeOlNbcqJQPe%2B4B0OlWfo9VpKSAH1pr1f1qVvLCs75fTQ9qMghLw%3D%3D
 
 
 #EXTINF:-1,UFC Network
-http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19SoQ7K5q4iFKdQTTPBhfOKzTwhpuEO2Z4I5KgRds3GLfOwM1WpMZ6AgaprOfUjQPe0FWuk%2B6s6PA%3D%3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19SoQ7K5q4iFKdQTTPBhfOKzTwhpuEO2Z4I5KgRds3GLfOwM1WpMZ6AgaprOfUjQPe0FWuk%2B6s6PA%3D%3D
