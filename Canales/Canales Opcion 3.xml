@@ -1,355 +1,355 @@
 #EXTM3U
 #EXTINF:-1,------- Spanish ---------
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1072.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1072.ts
 #EXTINF:-1,ES: Taquilla 1
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1071.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1071.ts
 #EXTINF:-1,ES: Taquilla 2
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1070.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1070.ts
 #EXTINF:-1,ES: Taquilla 3
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1069.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1069.ts
 #EXTINF:-1,ES: Taquilla 4
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1068.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1068.ts
 #EXTINF:-1,ES: Taquilla 5
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1067.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1067.ts
 #EXTINF:-1,ES: Taquilla 6
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1066.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1066.ts
 #EXTINF:-1,ES: Taquilla 7
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1065.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1065.ts
 #EXTINF:-1,ES: Taquilla 8
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1064.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1064.ts
 #EXTINF:-1,ES: Taquilla 9
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1063.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1063.ts
 #EXTINF:-1,ES: Taquilla 10
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1062.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1062.ts
 #EXTINF:-1,ES: Canal+ Liga
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1022.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1022.ts
 #EXTINF:-1,ES: Canal+ Deportes HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1012.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1012.ts
 #EXTINF:-1,ES: Canal+ Deportes 2 HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2590.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2590.ts
 #EXTINF:-1,ES: Canal+ Futpol
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1020.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1020.ts
 #EXTINF:-1,ES: Canal+ Golf
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1019.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1019.ts
 #EXTINF:-1,ES: Canal+ HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1016.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1016.ts
 #EXTINF:-1,ES: Canal+ Accion
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1030.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1030.ts
 #EXTINF:-1,ES: Canal+ Dcine
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1028.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1028.ts
 #EXTINF:-1,ES: Canal+ Comedia
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1031.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1031.ts
 #EXTINF:-1,ES: Canal+ Estrenos HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1059.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1059.ts
 #EXTINF:-1,ES: Canal+ de las Estrellas
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1048.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1048.ts
 #EXTINF:-1,ES: Canal+ Series
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1058.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1058.ts
 #EXTINF:-1,ES: Canal+ Serie Xtra
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1004.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1004.ts
 #EXTINF:-1,ES: Canal+ Cuatro
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1026.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1026.ts
 #EXTINF:-1,ES: Canal+ Cine
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1033.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1033.ts
 #EXTINF:-1,ES: Canal+ Cocina
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1024.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1024.ts
 #EXTINF:-1,ES: Canal+ AXN HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1054.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1054.ts
 #EXTINF:-1,ES: Canal+ Toros
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1049.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1049.ts
 #EXTINF:-1,ES: Canal Los40
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1002.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1002.ts
 #EXTINF:-1,ES: Canal+ Nova
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1034.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1034.ts
 #EXTINF:-1,ES: Canal+ Fox HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1029.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1029.ts
 #EXTINF:-1,ES: Canal T HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1047.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1047.ts
 #EXTINF:-1,ES: Alfa TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1041.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1041.ts
 #EXTINF:-1,ES: Canal+ Divinity
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1039.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1039.ts
 #EXTINF:-1,ES: 24 Horas
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1046.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1046.ts
 #EXTINF:-1,ES: Bein Sport ES HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1003.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1003.ts
 #EXTINF:-1,ES: Real Madrid
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1037.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1037.ts
 #EXTINF:-1,ES: Barca TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1021.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1021.ts
 #EXTINF:-1,ES: Movis Star Moto Gp
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1011.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1011.ts
 #EXTINF:-1,ES: Movi Star F1
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1010.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1010.ts
 #EXTINF:-1,ES: Comedy Central
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1042.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1042.ts
 #EXTINF:-1,ES: Teledeportes
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1050.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1050.ts
 #EXTINF:-1,ES: Clan TVE
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1045.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1045.ts
 #EXTINF:-1,ES: La 1
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1014.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1014.ts
 #EXTINF:-1,ES: La 2
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1013.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1013.ts
 #EXTINF:-1,ES: La  Sexta HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1017.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1017.ts
 #EXTINF:-1,ES: TV Galicia
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1015.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1015.ts
 #EXTINF:-1,ES: SYFY HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1025.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1025.ts
 #EXTINF:-1,ES: TV3
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2591.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2591.ts
 #EXTINF:-1,ES: Rtvcscolombia
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2584.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2584.ts
 #EXTINF:-1,ES: AMC HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2589.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2589.ts
 #EXTINF:-1,ES: LTC
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2588.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2588.ts
 #EXTINF:-1,ES: GOL Tv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2585.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2585.ts
 #EXTINF:-1,ES: Boing
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2586.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2586.ts
 #EXTINF:-1,ES: Cosmo HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2587.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2587.ts
 #EXTINF:-1,ES: News DW
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1053.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1053.ts
 #EXTINF:-1,ES: TCM HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1056.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1056.ts
 #EXTINF:-1,ES: 324 Entertainment
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1005.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1005.ts
 #EXTINF:-1,ES: Fox Life
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1060.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1060.ts
 #EXTINF:-1,ES: Hollywood
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1036.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1036.ts
 #EXTINF:-1,ES: Axn White HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1023.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1023.ts
 #EXTINF:-1,ES: History
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1051.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1051.ts
 #EXTINF:-1,ES: Calle 13 Spain
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1009.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1009.ts
 #EXTINF:-1,ES: Anime
-http://163.172.6.8:8000/live/ifixrepair/moon3204/999.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/999.ts
 #EXTINF:-1,ES: A&E
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1001.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1001.ts
 #EXTINF:-1,ES: FDF
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1007.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1007.ts
 #EXTINF:-1,ES: Caza Y Pesca
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1027.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1027.ts
 #EXTINF:-1,ES: Viajar
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1043.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1043.ts
 #EXTINF:-1,ES: Teleticino
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1008.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1008.ts
 #EXTINF:-1,ES: National Geographic
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1057.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1057.ts
 #EXTINF:-1,ES: National Geographic Wild
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1055.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1055.ts
 #EXTINF:-1,ES: Disney Chaneel
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1040.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1040.ts
 #EXTINF:-1,ES: Disney XD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1038.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1038.ts
 #EXTINF:-1,ES: TNT
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1032.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1032.ts
 #EXTINF:-1,ES: TVN Chile HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1006.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1006.ts
 #EXTINF:-1,ES: CHILE VTV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1052.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1052.ts
 #EXTINF:-1,ES: Chile 18 Carnaval
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1044.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1044.ts
 #EXTINF:-1,----------Latino----------
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2701.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2701.ts
 #EXTINF:-1,ES: Azteca trece
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1018.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1018.ts
 #EXTINF:-1,ES: Azteca Noticias
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1061.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1061.ts
 #EXTINF:-1,ES: Azteca Noticias 16
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2583.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2583.ts
 #EXTINF:-1,ES: Azteca 7 Monterrey
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1035.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1035.ts
 #EXTINF:-1,ES: Antena 3 Internacional
-http://163.172.6.8:8000/live/ifixrepair/moon3204/1000.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1000.ts
 #EXTINF:-1,ES: Canal del Congreso
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2567.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2567.ts
 #EXTINF:-1,ES: Azteca CLIC
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2571.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2571.ts
 #EXTINF:-1,ES: Canel Wow TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2558.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2558.ts
 #EXTINF:-1,ES: Canel 26 HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2561.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2561.ts
 #EXTINF:-1,ES: Canal Antiestres
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2597.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2597.ts
 #EXTINF:-1,ES: Canal 4 HD Jujuy
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2598.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2598.ts
 #EXTINF:-1,ES: Canal 10 Chetumal
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2565.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2565.ts
 #EXTINF:-1,ES: Univision 23
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2607.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2607.ts
 #EXTINF:-1,ES: Channel 8
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2610.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2610.ts
 #EXTINF:-1,ES: Channel 32
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2608.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2608.ts
 #EXTINF:-1,ES: Combate
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2609.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2609.ts
 #EXTINF:-1,ES: Azteca Cinma
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2559.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2559.ts
 #EXTINF:-1,ES: Telemaax argentina
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2570.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2570.ts
 #EXTINF:-1,ES: TV Brasil
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2564.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2564.ts
 #EXTINF:-1,ES: CBN Español
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2569.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2569.ts
 #EXTINF:-1,ES: TV Mas HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2550.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2550.ts
 #EXTINF:-1,ES: ALL Sports
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2593.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2593.ts
 #EXTINF:-1,ES: Hispantv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2574.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2574.ts
 #EXTINF:-1,ES: Williax
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2572.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2572.ts
 #EXTINF:-1,ES: Religion
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2554.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2554.ts
 #EXTINF:-1,ES: Telpin HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2560.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2560.ts
 #EXTINF:-1,ES: Noticias ForoTV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2606.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2606.ts
 #EXTINF:-1,ES: Radiovida
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2601.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2601.ts
 #EXTINF:-1,ES: Noticias16
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2605.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2605.ts
 #EXTINF:-1,ES: Mega
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2557.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2557.ts
 #EXTINF:-1,ES: Mega2015
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2602.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2602.ts
 #EXTINF:-1,ES: Cable Noticias
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2604.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2604.ts
 #EXTINF:-1,ES: Cablenoticias
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2603.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2603.ts
 #EXTINF:-1,ES: Orbe 21
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2578.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2578.ts
 #EXTINF:-1,ES: Neox HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2577.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2577.ts
 #EXTINF:-1,ES: Rede Super
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2576.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2576.ts
 #EXTINF:-1,ES: microvision
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2555.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2555.ts
 #EXTINF:-1,ES: CGTN
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2592.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2592.ts
 #EXTINF:-1,ES: Atreseries
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2594.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2594.ts
 #EXTINF:-1,ES: La Otra
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2551.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2551.ts
 #EXTINF:-1,ES: Konyha TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2575.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2575.ts
 #EXTINF:-1,ES: Kids TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2547.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2547.ts
 #EXTINF:-1,ES: Gong
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2563.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2563.ts
 #EXTINF:-1,ES: CyL7
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2552.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2552.ts
 #EXTINF:-1,ES: cliparts/jix
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2573.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2573.ts
 #EXTINF:-1,ES: Castilla
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2553.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2553.ts
 #EXTINF:-1,ES: Canal 4
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2556.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2556.ts
 #EXTINF:-1,ES: Brazil 1
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2562.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2562.ts
 #EXTINF:-1,ES: Axial TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2581.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2581.ts
 #EXTINF:-1,ES: Efekto tv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2580.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2580.ts
 #EXTINF:-1,ES: Rede New
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2548.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2548.ts
 #EXTINF:-1,ES: A3S
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2579.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2579.ts
 #EXTINF:-1,ES: 8aldia
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2546.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2546.ts
 #EXTINF:-1,ES: 66 Mexicali
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2566.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2566.ts
 #EXTINF:-1,ES: 44 Mexico
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2549.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2549.ts
 #EXTINF:-1,ES: 3abn Kidz
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2568.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2568.ts
 #EXTINF:-1,ES: CC TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2611.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2611.ts
 #EXTINF:-1,ES: Todo Deportes
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2618.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2618.ts
 #EXTINF:-1,ES: Sun HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2620.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2620.ts
 #EXTINF:-1,ES: RtvCe
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2622.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2622.ts
 #EXTINF:-1,ES: PopularTv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2612.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2612.ts
 #EXTINF:-1,ES: Olympic HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2614.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2614.ts
 #EXTINF:-1,ES: LaOtra
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2619.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2619.ts
 #EXTINF:-1,ES: RTV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2613.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2613.ts
 #EXTINF:-1,ES: EitbEuskadi
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2623.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2623.ts
 #EXTINF:-1,ES: Deport Tv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2617.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2617.ts
 #EXTINF:-1,ES: CDO Premium HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2615.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2615.ts
 #EXTINF:-1,ES: Banda Ancha TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2616.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2616.ts
 #EXTINF:-1,ES: 8Tv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2621.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2621.ts
 #EXTINF:-1,ES: Uestv
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2627.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2627.ts
 #EXTINF:-1,ES: Willax TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2628.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2628.ts
 #EXTINF:-1,ES: REDETV HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2624.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2624.ts
 #EXTINF:-1,ES: Noticias News
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2625.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2625.ts
 #EXTINF:-1,ES: Konyha TV HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2629.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2629.ts
 #EXTINF:-1,ES: Foro TV Opción 2
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2626.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2626.ts
 #EXTINF:-1,ES: Canal 5
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2631.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2631.ts
 #EXTINF:-1,ES: Cartoon Network
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2632.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2632.ts
 #EXTINF:-1,ES: Cinemax
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2630.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2630.ts
 #EXTINF:-1,ES: De Pelicula
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2634.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2634.ts
 #EXTINF:-1,ES: Discovery Cimvilization
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2637.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2637.ts
 #EXTINF:-1,ES: Discovery TLC
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2635.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2635.ts
 #EXTINF:-1,ES: Discovery World
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2636.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2636.ts
 #EXTINF:-1,ES: Disny HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2638.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2638.ts
 #EXTINF:-1,ES: E! Entertainment
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2640.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2640.ts
 #EXTINF:-1,ES: FOX 1
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2641.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2641.ts
 #EXTINF:-1,ES: FOX Action
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2642.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2642.ts
 #EXTINF:-1,ES: FOX Classic
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2643.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2643.ts
 #EXTINF:-1,ES: Fox Movies
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2645.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2645.ts
 #EXTINF:-1,ES: Fox Sport
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2646.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2646.ts
 #EXTINF:-1,ES: FX HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2647.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2647.ts
 #EXTINF:-1,ES: Fox Life 2
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2644.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2644.ts
 #EXTINF:-1,ES: Hola TV
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2648.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2648.ts
 #EXTINF:-1,ES: Life Time
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2649.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2649.ts
 #EXTINF:-1,ES: omedy Central
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2633.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2633.ts
 #EXTINF:-1,ES: RCN HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2651.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2651.ts
 #EXTINF:-1,ES: Sony HD
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2650.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2650.ts
 #EXTINF:-1,ES: SYFY
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2652.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2652.ts
 #EXTINF:-1,ES: TV Aparecida
-http://163.172.6.8:8000/live/ifixrepair/moon3204/2582.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2582.ts
