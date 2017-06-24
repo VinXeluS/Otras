@@ -1,355 +1,103 @@
 #EXTM3U
-#EXTINF:-1,------- Spanish ---------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1072.ts
-#EXTINF:-1,ES: Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1071.ts
-#EXTINF:-1,ES: Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1070.ts
-#EXTINF:-1,ES: Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1069.ts
-#EXTINF:-1,ES: Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1068.ts
-#EXTINF:-1,ES: Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1067.ts
-#EXTINF:-1,ES: Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1066.ts
-#EXTINF:-1,ES: Taquilla 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1065.ts
-#EXTINF:-1,ES: Taquilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1064.ts
-#EXTINF:-1,ES: Taquilla 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1063.ts
-#EXTINF:-1,ES: Taquilla 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1062.ts
-#EXTINF:-1,ES: Canal+ Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1012.ts
-#EXTINF:-1,ES: Canal+ Deportes 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2590.ts
-#EXTINF:-1,ES: Canal+ Futpol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1020.ts
-#EXTINF:-1,ES: Canal+ Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1019.ts
-#EXTINF:-1,ES: Canal+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1016.ts
-#EXTINF:-1,ES: Canal+ Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1030.ts
-#EXTINF:-1,ES: Canal+ Dcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1028.ts
-#EXTINF:-1,ES: Canal+ Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1031.ts
-#EXTINF:-1,ES: Canal+ Estrenos HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1059.ts
-#EXTINF:-1,ES: Canal+ de las Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1048.ts
-#EXTINF:-1,ES: Canal+ Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1058.ts
-#EXTINF:-1,ES: Canal+ Serie Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1004.ts
-#EXTINF:-1,ES: Canal+ Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1026.ts
-#EXTINF:-1,ES: Canal+ Cine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1033.ts
-#EXTINF:-1,ES: Canal+ Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1024.ts
-#EXTINF:-1,ES: Canal+ AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1054.ts
-#EXTINF:-1,ES: Canal+ Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1049.ts
-#EXTINF:-1,ES: Canal Los40
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1002.ts
-#EXTINF:-1,ES: Canal+ Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1034.ts
-#EXTINF:-1,ES: Canal+ Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1029.ts
-#EXTINF:-1,ES: Canal T HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1047.ts
-#EXTINF:-1,ES: Alfa TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1041.ts
-#EXTINF:-1,ES: Canal+ Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1039.ts
-#EXTINF:-1,ES: 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1046.ts
-#EXTINF:-1,ES: Bein Sport ES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1003.ts
-#EXTINF:-1,ES: Real Madrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1037.ts
-#EXTINF:-1,ES: Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1021.ts
-#EXTINF:-1,ES: Movis Star Moto Gp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1011.ts
-#EXTINF:-1,ES: Movi Star F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1010.ts
-#EXTINF:-1,ES: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1042.ts
-#EXTINF:-1,ES: Teledeportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1050.ts
-#EXTINF:-1,ES: Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1045.ts
-#EXTINF:-1,ES: La 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1014.ts
-#EXTINF:-1,ES: La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1013.ts
-#EXTINF:-1,ES: La  Sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1017.ts
-#EXTINF:-1,ES: TV Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1015.ts
-#EXTINF:-1,ES: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1025.ts
-#EXTINF:-1,ES: TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2591.ts
-#EXTINF:-1,ES: Rtvcscolombia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2584.ts
-#EXTINF:-1,ES: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2589.ts
-#EXTINF:-1,ES: LTC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2588.ts
-#EXTINF:-1,ES: GOL Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2585.ts
-#EXTINF:-1,ES: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2586.ts
-#EXTINF:-1,ES: Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2587.ts
-#EXTINF:-1,ES: News DW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1053.ts
-#EXTINF:-1,ES: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1056.ts
-#EXTINF:-1,ES: 324 Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1005.ts
-#EXTINF:-1,ES: Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1060.ts
-#EXTINF:-1,ES: Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1036.ts
-#EXTINF:-1,ES: Axn White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1023.ts
-#EXTINF:-1,ES: History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1051.ts
-#EXTINF:-1,ES: Calle 13 Spain
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1009.ts
-#EXTINF:-1,ES: Anime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/999.ts
-#EXTINF:-1,ES: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1001.ts
-#EXTINF:-1,ES: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1007.ts
-#EXTINF:-1,ES: Caza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1027.ts
-#EXTINF:-1,ES: Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1043.ts
-#EXTINF:-1,ES: Teleticino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1008.ts
-#EXTINF:-1,ES: National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1057.ts
-#EXTINF:-1,ES: National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1055.ts
-#EXTINF:-1,ES: Disney Chaneel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1040.ts
-#EXTINF:-1,ES: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1038.ts
-#EXTINF:-1,ES: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1032.ts
-#EXTINF:-1,ES: TVN Chile HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1006.ts
-#EXTINF:-1,ES: CHILE VTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1052.ts
-#EXTINF:-1,ES: Chile 18 Carnaval
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1044.ts
-#EXTINF:-1,----------Latino----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2701.ts
-#EXTINF:-1,ES: Azteca trece
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1018.ts
-#EXTINF:-1,ES: Azteca Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1061.ts
-#EXTINF:-1,ES: Azteca Noticias 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2583.ts
-#EXTINF:-1,ES: Azteca 7 Monterrey
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1035.ts
-#EXTINF:-1,ES: Antena 3 Internacional
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/1000.ts
-#EXTINF:-1,ES: Canal del Congreso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2567.ts
-#EXTINF:-1,ES: Azteca CLIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2571.ts
-#EXTINF:-1,ES: Canel Wow TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2558.ts
-#EXTINF:-1,ES: Canel 26 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2561.ts
-#EXTINF:-1,ES: Canal Antiestres
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2597.ts
-#EXTINF:-1,ES: Canal 4 HD Jujuy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2598.ts
-#EXTINF:-1,ES: Canal 10 Chetumal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2565.ts
-#EXTINF:-1,ES: Univision 23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2607.ts
-#EXTINF:-1,ES: Channel 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2610.ts
-#EXTINF:-1,ES: Channel 32
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2608.ts
-#EXTINF:-1,ES: Combate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2609.ts
-#EXTINF:-1,ES: Azteca Cinma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2559.ts
-#EXTINF:-1,ES: Telemaax argentina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2570.ts
-#EXTINF:-1,ES: TV Brasil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2564.ts
-#EXTINF:-1,ES: CBN Español
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2569.ts
-#EXTINF:-1,ES: TV Mas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2550.ts
-#EXTINF:-1,ES: ALL Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2593.ts
-#EXTINF:-1,ES: Hispantv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2574.ts
-#EXTINF:-1,ES: Williax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2572.ts
-#EXTINF:-1,ES: Religion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2554.ts
-#EXTINF:-1,ES: Telpin HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2560.ts
-#EXTINF:-1,ES: Noticias ForoTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2606.ts
-#EXTINF:-1,ES: Radiovida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2601.ts
-#EXTINF:-1,ES: Noticias16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2605.ts
-#EXTINF:-1,ES: Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2557.ts
-#EXTINF:-1,ES: Mega2015
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2602.ts
-#EXTINF:-1,ES: Cable Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2604.ts
-#EXTINF:-1,ES: Cablenoticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2603.ts
-#EXTINF:-1,ES: Orbe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2578.ts
-#EXTINF:-1,ES: Neox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2577.ts
-#EXTINF:-1,ES: Rede Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2576.ts
-#EXTINF:-1,ES: microvision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2555.ts
-#EXTINF:-1,ES: CGTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2592.ts
-#EXTINF:-1,ES: Atreseries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2594.ts
-#EXTINF:-1,ES: La Otra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2551.ts
-#EXTINF:-1,ES: Konyha TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2575.ts
-#EXTINF:-1,ES: Kids TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2547.ts
-#EXTINF:-1,ES: Gong
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2563.ts
-#EXTINF:-1,ES: CyL7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2552.ts
-#EXTINF:-1,ES: cliparts/jix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2573.ts
-#EXTINF:-1,ES: Castilla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2553.ts
-#EXTINF:-1,ES: Canal 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2556.ts
-#EXTINF:-1,ES: Brazil 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2562.ts
-#EXTINF:-1,ES: Axial TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2581.ts
-#EXTINF:-1,ES: Efekto tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2580.ts
-#EXTINF:-1,ES: Rede New
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2548.ts
-#EXTINF:-1,ES: A3S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2579.ts
-#EXTINF:-1,ES: 8aldia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2546.ts
-#EXTINF:-1,ES: 66 Mexicali
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2566.ts
-#EXTINF:-1,ES: 44 Mexico
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2549.ts
-#EXTINF:-1,ES: 3abn Kidz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2568.ts
-#EXTINF:-1,ES: CC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2611.ts
-#EXTINF:-1,ES: Todo Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2618.ts
-#EXTINF:-1,ES: Sun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2620.ts
-#EXTINF:-1,ES: RtvCe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2622.ts
-#EXTINF:-1,ES: PopularTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2612.ts
-#EXTINF:-1,ES: Olympic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2614.ts
-#EXTINF:-1,ES: LaOtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2619.ts
-#EXTINF:-1,ES: RTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2613.ts
-#EXTINF:-1,ES: EitbEuskadi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2623.ts
-#EXTINF:-1,ES: Deport Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2617.ts
-#EXTINF:-1,ES: CDO Premium HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2615.ts
-#EXTINF:-1,ES: Banda Ancha TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2616.ts
-#EXTINF:-1,ES: 8Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2621.ts
-#EXTINF:-1,ES: Uestv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2627.ts
-#EXTINF:-1,ES: Willax TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2628.ts
-#EXTINF:-1,ES: REDETV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2624.ts
-#EXTINF:-1,ES: Noticias News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2625.ts
-#EXTINF:-1,ES: Konyha TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2629.ts
-#EXTINF:-1,ES: Foro TV Opción 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2626.ts
-#EXTINF:-1,ES: Canal 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2631.ts
-#EXTINF:-1,ES: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2632.ts
-#EXTINF:-1,ES: Cinemax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2630.ts
-#EXTINF:-1,ES: De Pelicula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2634.ts
-#EXTINF:-1,ES: Discovery Cimvilization
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2637.ts
-#EXTINF:-1,ES: Discovery TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2635.ts
-#EXTINF:-1,ES: Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2636.ts
-#EXTINF:-1,ES: Disny HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2638.ts
-#EXTINF:-1,ES: E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2640.ts
-#EXTINF:-1,ES: FOX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2641.ts
-#EXTINF:-1,ES: FOX Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2642.ts
-#EXTINF:-1,ES: FOX Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2643.ts
-#EXTINF:-1,ES: Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2645.ts
-#EXTINF:-1,ES: Fox Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2646.ts
-#EXTINF:-1,ES: FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2647.ts
-#EXTINF:-1,ES: Fox Life 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2644.ts
-#EXTINF:-1,ES: Hola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2648.ts
-#EXTINF:-1,ES: Life Time
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2649.ts
-#EXTINF:-1,ES: omedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2633.ts
-#EXTINF:-1,ES: RCN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2651.ts
-#EXTINF:-1,ES: Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2650.ts
-#EXTINF:-1,ES: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2652.ts
-#EXTINF:-1,ES: TV Aparecida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.6.8:8000/live/ifixrepair/moon3204/2582.ts
+
+
+#EXTINF:-1 tvg-name="#0" tvg-logo="http://drive.mobincube.com:8080/imgs/7c2017d395c1f5b2a17c01df47c86e7a/150/150",#0
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/114.ts
+#EXTINF:-1 tvg-name="ESTRENOS" tvg-logo="http://drive.mobincube.com:8080/imgs/3bd819e171b8bc909de4061c6af2863d/150/150",ESTRENOS
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/79.ts
+#EXTINF:-1 tvg-name="DCINE" tvg-logo="http://drive.mobincube.com:8080/imgs/9d49a0c7dcc2f0618a80a5a83a400e3a/150/150",DCINE
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/70.ts
+#EXTINF:-1 tvg-name="ACCION" tvg-logo="http://drive.mobincube.com:8080/imgs/0d3a95d63f11d96fb956617d1e1bb6ae/150/150",ACCION
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/56.ts
+#EXTINF:-1 tvg-name="COMEDIA" tvg-logo="http://drive.mobincube.com:8080/imgs/64fa9e17a2fd67d476c37188f4f60b96/150/150",COMEDIA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/65.ts
+#EXTINF:-1 tvg-name="XTRA" tvg-logo="http://drive.mobincube.com:8080/imgs/2765f483a868508bb2eee287ada64f2a/150/150",XTRA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/88.ts
+#EXTINF:-1 tvg-name="HOLLYWOOD" tvg-logo="http://drive.mobincube.com:8080/imgs/1e37949c9103de1e65343574c8e7a88a/150/150",HOLLYWOOD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/89.ts
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="http://drive.mobincube.com:8080/imgs/d7479f54895ccd6147639ad1c661fd50/150/150",SYFY
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/90.ts
+#EXTINF:-1 tvg-name="CALLE 13" tvg-logo="http://drive.mobincube.com:8080/imgs/bab8ed2571395fe6fa62b736d8f6550b/150/150",CALLE 13
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/55.ts
+#EXTINF:-1 tvg-name="LA 1" tvg-logo="http://drive.mobincube.com:8080/imgs/6f57921bcf3a4a679681548c4e1c91dd/150/150",LA 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/98.ts
+#EXTINF:-1 tvg-name="ANTENA 3" tvg-logo="http://drive.mobincube.com:8080/imgs/263c2c59bca7a1b0d1bb843a75b2717d/150/150",ANTENA 3
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/99.ts
+#EXTINF:-1 tvg-name="CUATRO" tvg-logo="http://drive.mobincube.com:8080/imgs/17d921a0fd507e3100e6b4820892389f/150/150",CUATRO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/69.ts
+#EXTINF:-1 tvg-name="TELECINCO" tvg-logo="http://drive.mobincube.com:8080/imgs/942e0a40de6001f5d18c22086e9567e6/150/150",TELECINCO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/101.ts
+#EXTINF:-1 tvg-name="SERIES" tvg-logo="http://drive.mobincube.com:8080/imgs/8dc51abad7786bc030e8b24fe7b01b55/150/150",SERIES
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/106.ts
+#EXTINF:-1 tvg-name="SERIES XTRA" tvg-logo="http://drive.mobincube.com:8080/imgs/ab5a5913bcff8d9c66c02d3d59580261/150/150",SERIES XTRA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/107.ts
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="http://drive.mobincube.com:8080/imgs/d6495269ef734d014228df97c7920755/150/150",FOX HD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/86.ts
+#EXTINF:-1 tvg-name="FOX LIFE" tvg-logo="http://drive.mobincube.com:8080/imgs/0c8cf95a42e3dea37b6e992e52886b44/150/150",FOX LIFE
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/108.ts
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://drive.mobincube.com:8080/imgs/b604fac5dafb904d3896f81ce41ee68b/150/150",AXN
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/109.ts
+#EXTINF:-1 tvg-name="AXN WHITE" tvg-logo="http://drive.mobincube.com:8080/imgs/4dbf6f1b91a536005fb0cc8b6cd615eb/150/150",AXN WHITE
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/110.ts
+#EXTINF:-1 tvg-name="COSMO" tvg-logo="http://drive.mobincube.com:8080/imgs/0b454a958a2b551eb7e2baa9bee0ab1a/150/150",COSMO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/67.ts
+#EXTINF:-1 tvg-name="TNT" tvg-logo="http://drive.mobincube.com:8080/imgs/84dd4a3b2195cdbf87f6d67e74da76f7/150/150",TNT
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/111.ts
+#EXTINF:-1 tvg-name="LA LIGA TV" tvg-logo="http://drive.mobincube.com:8080/imgs/fd61372242dcc93d1dcdffa79c39c4b3/150/150",LA LIGA TV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/91.ts
+#EXTINF:-1 tvg-name="BEIN SPORT LIGA" tvg-logo="http://drive.mobincube.com:8080/imgs/7d5021cfef38d495a5a13fece6be3ff8/150/150",BEIN SPORT LIGA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/92.ts
+#EXTINF:-1 tvg-name="BEIN SPORT" tvg-logo="http://drive.mobincube.com:8080/imgs/3ddb17f3b8de9a876bfbd6a79a80202d/150/150",BEIN SPORT
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/115.ts
+#EXTINF:-1 tvg-name="GOL TV" tvg-logo="http://drive.mobincube.com:8080/imgs/ce2ddffc2303d3936808eac8233099fd/150/150",GOL TV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/93.ts
+#EXTINF:-1 tvg-name="FUTBOL" tvg-logo="http://drive.mobincube.com:8080/imgs/ef3e35c4104929612ebede4e3d3bc87f/150/150",FUTBOL
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/84.ts
+#EXTINF:-1 tvg-name="DEPORTE 1" tvg-logo="http://drive.mobincube.com:8080/imgs/d1bfa7d7d44daca7cf38149fd33f4d44/150/150",DEPORTE 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/71.ts
+#EXTINF:-1 tvg-name="DEPORTE 2" tvg-logo="http://drive.mobincube.com:8080/imgs/d1bfa7d7d44daca7cf38149fd33f4d44/150/150",DEPORTE 2
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/72.ts
+#EXTINF:-1 tvg-name="F1" tvg-logo="http://drive.mobincube.com:8080/imgs/933731bbb2cc37b96fa847da65fdc64a/150/150",F1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/83.ts
+#EXTINF:-1 tvg-name="MOTOGP" tvg-logo="http://drive.mobincube.com:8080/imgs/c7a89559671faec165aca75f840884bf/150/150",MOTOGP
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/94.ts
+#EXTINF:-1 tvg-name="TOROS" tvg-logo="http://drive.mobincube.com:8080/imgs/1ab14852c007427dab323252431909a6/150/150",TOROS
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/97.ts
+#EXTINF:-1 tvg-name="GOLF" tvg-logo="http://drive.mobincube.com:8080/imgs/4ff01f3871998493401344416c2cf706/150/150",GOLF
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/95.ts
+#EXTINF:-1 tvg-name="BARÇA TV" tvg-logo="http://drive.mobincube.com:8080/imgs/9837d33cb9d97dc671d1199995201b3c/150/150",BARÇA TV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/96.ts
+#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="http://drive.mobincube.com:8080/imgs/63d35318a6af2accae6e9960f2e54ecc/150/150",EUROSPORT
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/82.ts
+#EXTINF:-1 tvg-name="NAT GEO" tvg-logo="http://drive.mobincube.com:8080/imgs/993ab3c8c380d7ef1b2c3ddc794ed84a/150/150",NAT GEO
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/102.ts
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="http://drive.mobincube.com:8080/imgs/babcaee608679b655d8a0c311f7287a7/150/150",NAT GEO WILD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/103.ts
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="http://drive.mobincube.com:8080/imgs/1236f6059ab092391c9c78545a12a0ec/150/150",DMAX
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/73.ts
+#EXTINF:-1 tvg-name="HISTORIA" tvg-logo="http://drive.mobincube.com:8080/imgs/3c6f29cb8ca0d409563e547882749467/150/150",HISTORIA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/104.ts
+#EXTINF:-1 tvg-name="IBERALIA" tvg-logo="http://drive.mobincube.com:8080/imgs/e3551cf063ee59ce9d92080714f8a03b/150/150",IBERALIA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/105.ts
+#EXTINF:-1 tvg-name="CAZA Y PESCA" tvg-logo="http://drive.mobincube.com:8080/imgs/b13dbd578b868c3fdea4f057e393ed28/150/150",CAZA Y PESCA
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/61.ts
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://drive.mobincube.com:8080/imgs/699c1a1c64003b1d96b8d8e16a35bd3b/150/150",MTV
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/113.ts
+#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="http://drive.mobincube.com:8080/imgs/561f681160b6bbf3188fe8826453c2ac/150/150",DISNEY XD
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/76.ts
+#EXTINF:-1 tvg-name="DISNEY JR" tvg-logo="http://drive.mobincube.com:8080/imgs/52bc7c5d5aec59cc698c43579614ead8/150/150",DISNEY JR
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/75.ts
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="http://drive.mobincube.com:8080/imgs/927124f3312587ac9c7a2c09445a9cf3/150/150",NICKELODEON
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/112.ts
+#EXTINF:-1 tvg-name="XXX 1" tvg-logo="http://drive.mobincube.com:8080/imgs/dbe2b20242a13e581becfd3f36609afa/150/150",XXX 1
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/87.ts
+#EXTINF:-1 tvg-name="XXX 2" tvg-logo="http://drive.mobincube.com:8080/imgs/1540100273663abcf44eff6c19566d41/150/150",XXX 2
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/46.ts
+#EXTINF:-1 tvg-name="XXX 3" tvg-logo="http://drive.mobincube.com:8080/imgs/991b6277f0df78f1a2f9d331e40b9384/150/150",XXX 3
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/47.ts
+#EXTINF:-1 tvg-name="XXX 4" tvg-logo="http://drive.mobincube.com:8080/imgs/fb491ef4700119b387129485d8566987/150/150",XXX 4
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/48.ts
+#EXTINF:-1 tvg-name="XXX 5" tvg-logo="http://drive.mobincube.com:8080/imgs/589a2bf07df6af68a24f0ff6cb234760/150/150",XXX 5
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/49.ts
+#EXTINF:-1 tvg-name="XXX 6" tvg-logo="http://drive.mobincube.com:8080/imgs/5faa271fdca7fe2d5dcb9cb41ad35772/150/150",XXX 6
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/50.ts
