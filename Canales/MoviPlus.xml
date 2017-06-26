@@ -1,0 +1,361 @@
+#EXTM3U
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< TDT >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13657.ts
+#EXTINF:-1,•   LA1 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19271.ts
+#EXTINF:-1,•   LA1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13643.ts
+#EXTINF:-1,•   LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/33.ts
+#EXTINF:-1,•   LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/34.ts
+#EXTINF:-1,•   ANTENA 3 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19272.ts
+#EXTINF:-1,•   ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13640.ts
+#EXTINF:-1,•   ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/407.ts
+#EXTINF:-1,•   CUATRO HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19273.ts
+#EXTINF:-1,•   CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13671.ts
+#EXTINF:-1,•   CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/24.ts
+#EXTINF:-1,•   TELECINCO HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19274.ts
+#EXTINF:-1,•   TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7209.ts
+#EXTINF:-1,•   TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/44.ts
+#EXTINF:-1,•   LA SEXTA HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19275.ts
+#EXTINF:-1,•   LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/408.ts
+#EXTINF:-1,•   LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/35.ts
+#EXTINF:-1,•   NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7194.ts
+#EXTINF:-1,•   NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/42.ts
+#EXTINF:-1,•   MEGA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7200.ts
+#EXTINF:-1,•   FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/404.ts
+#EXTINF:-1,•   DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7196.ts
+#EXTINF:-1,•   ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/405.ts
+#EXTINF:-1,•   TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/410.ts
+#EXTINF:-1,•   ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7195.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< CINE >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13651.ts
+#EXTINF:-1,•   M. ESTRENOS HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18704.ts
+#EXTINF:-1,•   M. ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/425.ts
+#EXTINF:-1,•   M. ESTRENOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/9.ts
+#EXTINF:-1,•   M. ACCION HD(1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18703.ts
+#EXTINF:-1,•   M. ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13603.ts
+#EXTINF:-1,•   M. ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/5.ts
+#EXTINF:-1,•   M. COMEDIA HD(1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18702.ts
+#EXTINF:-1,•   M. COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7211.ts
+#EXTINF:-1,•   M. COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/6.ts
+#EXTINF:-1,•   M. DCINE HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18705.ts
+#EXTINF:-1,•   M. DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7210.ts
+#EXTINF:-1,•   M. DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/25.ts
+#EXTINF:-1,•   M. XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13625.ts
+#EXTINF:-1,•   M. XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/16.ts
+#EXTINF:-1,•   M CINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7224.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< SERIES >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13652.ts
+#EXTINF:-1,•   M SERIES HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18706.ts
+#EXTINF:-1,•   M. SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13605.ts
+#EXTINF:-1,•   M. SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13.ts
+#EXTINF:-1,•   M. SERIES XTRA HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18707.ts
+#EXTINF:-1,•   M. SERIES XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13628.ts
+#EXTINF:-1,•   M. SERIES XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/14.ts
+#EXTINF:-1,•   COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13634.ts
+#EXTINF:-1,•   COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7216.ts
+#EXTINF:-1,•   H0LLYWOOD HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18708.ts
+#EXTINF:-1,•   HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13593.ts
+#EXTINF:-1,•   HOLLYWOOD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/32.ts
+#EXTINF:-1,•   PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7212.ts
+#EXTINF:-1,•   FOX HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18713.ts
+#EXTINF:-1,•   FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13594.ts
+#EXTINF:-1,•   FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/29.ts
+#EXTINF:-1,•   FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13622.ts
+#EXTINF:-1,•   FOX LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/30.ts
+#EXTINF:-1,•   AMC HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18709.ts
+#EXTINF:-1,•   AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13702.ts
+#EXTINF:-1,•   AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13665.ts
+#EXTINF:-1,•   AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13589.ts
+#EXTINF:-1,•   AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/3.ts
+#EXTINF:-1,•   AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13624.ts
+#EXTINF:-1,•   AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/4.ts
+#EXTINF:-1,•   SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13633.ts
+#EXTINF:-1,•   SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/48.ts
+#EXTINF:-1,•   TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13592.ts
+#EXTINF:-1,•   TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/46.ts
+#EXTINF:-1,•   TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13604.ts
+#EXTINF:-1,•   TCM HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18710.ts
+#EXTINF:-1,•   TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/43.ts
+#EXTINF:-1,•   SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13691.ts
+#EXTINF:-1,•   CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13645.ts
+#EXTINF:-1,•   CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/17.ts
+#EXTINF:-1,•   A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/2.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< EXTRA >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13660.ts
+#EXTINF:-1,•   TOROS HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18711.ts
+#EXTINF:-1,•   TOROS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13602.ts
+#EXTINF:-1,•   TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/15.ts
+#EXTINF:-1,•   CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/21.ts
+#EXTINF:-1,•   IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13936.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< DOCUMENTALES >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13654.ts
+#EXTINF:-1,•   HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/31.ts
+#EXTINF:-1,•   CANAL ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7225.ts
+#EXTINF:-1,•   NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13590.ts
+#EXTINF:-1,•   NATIONAL GEOGRAPHIC HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19276.ts
+#EXTINF:-1,•   NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/38.ts
+#EXTINF:-1,•   NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/39.ts
+#EXTINF:-1,•   VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13623.ts
+#EXTINF:-1,•   CRIME & INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7226.ts
+#EXTINF:-1,•   DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13692.ts
+#EXTINF:-1,•   NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13935.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< MUSICA >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13656.ts
+#EXTINF:-1,•   MEZZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13701.ts
+#EXTINF:-1,•   VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/47.ts
+#EXTINF:-1,•   M. eSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/426.ts
+#EXTINF:-1,•   MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13667.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< ESTILO DE VIDA >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13659.ts
+#EXTINF:-1,•   COSMO HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18712.ts
+#EXTINF:-1,•   COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13629.ts
+#EXTINF:-1,•   CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7201.ts
+#EXTINF:-1,•   CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/1760.ts
+#EXTINF:-1,•   CANAL ORBE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13937.ts
+#EXTINF:-1,•   24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13939.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< INFANTILES >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13655.ts
+#EXTINF:-1,•   DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/26.ts
+#EXTINF:-1,•   DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/27.ts
+#EXTINF:-1,•   DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/28.ts
+#EXTINF:-1,•   NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/41.ts
+#EXTINF:-1,•   CLAN TVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/413.ts
+#EXTINF:-1,•   BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/409.ts
+#EXTINF:-1,•   NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/40.ts
+#EXTINF:-1,•   BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13666.ts
+#EXTINF:-1,•   CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13669.ts
+#EXTINF:-1,[COLOR lime][COLOR  lime]•  [B][/COLOR] <<<< DEPORTES >>>> [/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13653.ts
+#EXTINF:-1,•   BEIN SPORTS HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18684.ts
+#EXTINF:-1,•   BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/5983.ts
+#EXTINF:-1,•   BEIN SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/587.ts
+#EXTINF:-1,•   BEIN LA LIGA HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18683.ts
+#EXTINF:-1,•   BEIN LA LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13932.ts
+#EXTINF:-1,•   BEIN LA LIGA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13914.ts
+#EXTINF:-1,•   LA LIGA TV BAR (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18685.ts
+#EXTINF:-1,•   LA LIGA TV BAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13933.ts
+#EXTINF:-1,•   LA LIGA TV BAR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/12.ts
+#EXTINF:-1,•   LA LIGA BAR TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13940.ts
+#EXTINF:-1,•   GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13934.ts
+#EXTINF:-1,•   M. PARTIDAZO HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18692.ts
+#EXTINF:-1,•   M. PARTIDAZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13649.ts
+#EXTINF:-1,•   M. PARTIDAZO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/9190.ts
+#EXTINF:-1,•   M. FUTBOL HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18686.ts
+#EXTINF:-1,•   M. FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13596.ts
+#EXTINF:-1,•   M. FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/10.ts
+#EXTINF:-1,•   M. DEPORTES 1 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18690.ts
+#EXTINF:-1,•   M. DEPORTES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13600.ts
+#EXTINF:-1,•   M. DEPORTES 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/419.ts
+#EXTINF:-1,•   M. DEPORTES 2 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18691.ts
+#EXTINF:-1,•   M. DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13627.ts
+#EXTINF:-1,•   M. DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7197.ts
+#EXTINF:-1,•   M. GOLF HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18689.ts
+#EXTINF:-1,•   M. GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7202.ts
+#EXTINF:-1,•   M. GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/11.ts
+#EXTINF:-1,•   M. F1 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18687.ts
+#EXTINF:-1,•   M. F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13642.ts
+#EXTINF:-1,•   M. F1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/5963.ts
+#EXTINF:-1,•   M. MOTOGP HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/18688.ts
+#EXTINF:-1,•   M. MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13641.ts
+#EXTINF:-1,•   M. MOTO GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/5962.ts
+#EXTINF:-1,•   EUROSPORT 1 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19277.ts
+#EXTINF:-1,•   EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13587.ts
+#EXTINF:-1,•   EUROSPORT 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13668.ts
+#EXTINF:-1,•   EUROSPORT 2 HD (1080)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/19278.ts
+#EXTINF:-1,•   EUROSPORT 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13670.ts
+#EXTINF:-1,•   BEIN LA LIGA 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13700.ts
+#EXTINF:-1,•   LA LIGA TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13699.ts
+#EXTINF:-1,•   LA LIGA TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13698.ts
+#EXTINF:-1,•   LA LIGA TV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13697.ts
+#EXTINF:-1,•   LA LIGA TV 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13696.ts
+#EXTINF:-1,•   LA LIGA TV 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13695.ts
+#EXTINF:-1,•   LA LIGA TV 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13694.ts
+#EXTINF:-1,•   LA LIGA TV 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13693.ts
+#EXTINF:-1,•   BEIN MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13646.ts
+#EXTINF:-1,•   BEIN MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13647.ts
+#EXTINF:-1,•   BEIN MAX 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13648.ts
+#EXTINF:-1,•   BEIN MAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13948.ts
+#EXTINF:-1,•   BEIN MAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13947.ts
+#EXTINF:-1,•   BEIN MAX 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13946.ts
+#EXTINF:-1,•   BEIN MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13945.ts
+#EXTINF:-1,•   BEIN MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13944.ts
+#EXTINF:-1,•   BEIN MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13943.ts
+#EXTINF:-1,•   BEIN MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13942.ts
+#EXTINF:-1,•   BEIN MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13941.ts
+#EXTINF:-1,•   MULTIDEPORTES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/16837.ts
+#EXTINF:-1,•   MULTIDEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/16838.ts
+#EXTINF:-1,•   MULTIDEPORTES 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/16839.ts
+#EXTINF:-1,•   MULTIDEPORTES 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/16840.ts
+#EXTINF:-1,•   BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/7213.ts
+#EXTINF:-1,•   REAL MADRID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/422.ts
+#EXTINF:-1,•   TELEDEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/familiandaluza/2KKjPYwaKr/13917.ts
