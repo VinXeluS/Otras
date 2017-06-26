@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,==========Spain==========
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/ute6sPtJOw/qy5AaASlbe/7231.ts
+
 #EXTINF:-1,---------- TDT ----------
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/ute6sPtJOw/qy5AaASlbe/13657.ts
 #EXTINF:-1,SP: LA1 HD (1080)
