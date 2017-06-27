@@ -451,372 +451,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://gold-iptv.dd
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://gold-iptv.ddns.me:25461/live/atikmeriem/skype/6029.ts
 #EXTINF:-1,FOX
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://gold-iptv.ddns.me:25461/live/atikmeriem/skype/6037.ts
-#EXTINF:-1,SP: LA1 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19271.ts
-#EXTINF:-1,SP: LA1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13643.ts
-#EXTINF:-1,SP: LA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/33.ts
-#EXTINF:-1,SP: LA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/34.ts
-#EXTINF:-1,SP: ANTENA 3 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19272.ts
-#EXTINF:-1,SP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13640.ts
-#EXTINF:-1,SP: ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/407.ts
-#EXTINF:-1,SP: CUATRO HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19273.ts
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13671.ts
-#EXTINF:-1,SP: CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/24.ts
-#EXTINF:-1,SP: TELECINCO HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19274.ts
-#EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7209.ts
-#EXTINF:-1,SP: TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/44.ts
-#EXTINF:-1,SP: LA SEXTA HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19275.ts
-#EXTINF:-1,SP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/408.ts
-#EXTINF:-1,SP: LA SEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/35.ts
-#EXTINF:-1,SP: NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7194.ts
-#EXTINF:-1,SP: NOVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/42.ts
-#EXTINF:-1,SP: MEGA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7200.ts
-#EXTINF:-1,SP: FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/404.ts
-#EXTINF:-1,SP: DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7196.ts
-#EXTINF:-1,SP: ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/405.ts
-#EXTINF:-1,SP: TV GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/410.ts
-#EXTINF:-1,SP: ANDALUCIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7195.ts
-#EXTINF:-1,---------- MOVISTAR + ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13658.ts
-#EXTINF:-1,SP: 0# HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19279.ts
-#EXTINF:-1,SP: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13606.ts
-#EXTINF:-1,SP: #0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7262.ts
-#EXTINF:-1,---------- CINE ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13651.ts
-#EXTINF:-1,SP: M. ESTRENOS HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18704.ts
-#EXTINF:-1,SP: M. ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/425.ts
-#EXTINF:-1,SP: M. ESTRENOS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/9.ts
-#EXTINF:-1,SP: M. ACCION HD(1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18703.ts
-#EXTINF:-1,SP: M. ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13603.ts
-#EXTINF:-1,SP: M. ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/5.ts
-#EXTINF:-1,SP:  M. COMEDIA HD(1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18702.ts
-#EXTINF:-1,SP: M. COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7211.ts
-#EXTINF:-1,SP: M. COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/6.ts
-#EXTINF:-1,SP: M. DCINE HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18705.ts
-#EXTINF:-1,SP: M. DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7210.ts
-#EXTINF:-1,SP: M. DCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/25.ts
-#EXTINF:-1,SP: M. XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13625.ts
-#EXTINF:-1,SP: M. XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/16.ts
-#EXTINF:-1,SP: M CINE ESPANOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7224.ts
-#EXTINF:-1,---------- SERIES ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13652.ts
-#EXTINF:-1,SP: M SERIES HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18706.ts
-#EXTINF:-1,SP: M. SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13605.ts
-#EXTINF:-1,SP: M. SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18707.ts
-#EXTINF:-1,SP: M. SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13628.ts
-#EXTINF:-1,SP: M. SERIES XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/14.ts
-#EXTINF:-1,SP: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13634.ts
-#EXTINF:-1,SP: COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7216.ts
-#EXTINF:-1,SP: H0LLYWOOD HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18708.ts
-#EXTINF:-1,SP: HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13593.ts
-#EXTINF:-1,SP: HOLLYWOOD SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/32.ts
-#EXTINF:-1,SP: PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7212.ts
-#EXTINF:-1,SP: FOX HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18713.ts
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13594.ts
-#EXTINF:-1,SP: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/29.ts
-#EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13622.ts
-#EXTINF:-1,SP: FOX LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/30.ts
-#EXTINF:-1,SP: AMC HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18709.ts
-#EXTINF:-1,SP: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13702.ts
-#EXTINF:-1,SP: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13665.ts
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13589.ts
-#EXTINF:-1,SP: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/3.ts
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13624.ts
-#EXTINF:-1,SP: AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/4.ts
-#EXTINF:-1,SP: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13633.ts
-#EXTINF:-1,SP:  SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/48.ts
-#EXTINF:-1,SP: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13592.ts
-#EXTINF:-1,SP: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/46.ts
-#EXTINF:-1,SP: TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13604.ts
-#EXTINF:-1,SP: TCM HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18710.ts
-#EXTINF:-1,SP: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/43.ts
-#EXTINF:-1,SP: SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13691.ts
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13645.ts
-#EXTINF:-1,SP: CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/17.ts
-#EXTINF:-1,SP: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/2.ts
-#EXTINF:-1,---------- EXTRA ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13660.ts
-#EXTINF:-1,SP: TOROS HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18711.ts
-#EXTINF:-1,SP: TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13602.ts
-#EXTINF:-1,SP: TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/15.ts
-#EXTINF:-1,SP: CAZA Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/21.ts
-#EXTINF:-1,SP: IBERALIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13936.ts
-#EXTINF:-1,---------- DOCUMENTALES ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13654.ts
-#EXTINF:-1,SP: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/31.ts
-#EXTINF:-1,SP: CANAL ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7225.ts
-#EXTINF:-1,SP: NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13590.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19276.ts
-#EXTINF:-1,SP: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/38.ts
-#EXTINF:-1,SP: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/39.ts
-#EXTINF:-1,SP: VIAJAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13623.ts
-#EXTINF:-1,SP: CRIME & INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7226.ts
-#EXTINF:-1,SP: DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13692.ts
-#EXTINF:-1,SP: NON STOP PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13935.ts
-#EXTINF:-1,---------- MUSICA ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13656.ts
-#EXTINF:-1,SP: MEZZO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13701.ts
-#EXTINF:-1,SP: VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/47.ts
-#EXTINF:-1,SP: M. eSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/426.ts
-#EXTINF:-1,SP: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13667.ts
-#EXTINF:-1,---------- ESTILO DE VIDA ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13659.ts
-#EXTINF:-1,SP: COSMO HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18712.ts
-#EXTINF:-1,SP: COSMO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13629.ts
-#EXTINF:-1,SP: CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7201.ts
-#EXTINF:-1,SP: CANAL DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/1760.ts
-#EXTINF:-1,SP: CANAL ORBE 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13937.ts
-#EXTINF:-1,SP: 24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13939.ts
-#EXTINF:-1,---------- INFANTILES ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13655.ts
-#EXTINF:-1,SP: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/26.ts
-#EXTINF:-1,SP: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/27.ts
-#EXTINF:-1,SP: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/28.ts
-#EXTINF:-1,SP: NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/41.ts
-#EXTINF:-1,SP: CLAN TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/413.ts
-#EXTINF:-1,SP: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/409.ts
-#EXTINF:-1,SP: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/40.ts
-#EXTINF:-1,SP: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13666.ts
-#EXTINF:-1,SP: CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13669.ts
-#EXTINF:-1,---------- DEPORTES ----------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13653.ts
-#EXTINF:-1,SP: BEIN SPORTS HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18684.ts
-#EXTINF:-1,SP: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/5983.ts
-#EXTINF:-1,SP: BEIN SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/587.ts
-#EXTINF:-1,SP: BEIN LA LIGA HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18683.ts
-#EXTINF:-1,SP: BEIN LA LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13932.ts
-#EXTINF:-1,SP: BEIN LA LIGA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13914.ts
-#EXTINF:-1,SP: LA LIGA TV BAR (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18685.ts
-#EXTINF:-1,SP: LA LIGA TV BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13933.ts
-#EXTINF:-1,SP: LA LIGA TV BAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/12.ts
-#EXTINF:-1,SP: LA LIGA BAR TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13940.ts
-#EXTINF:-1,SP: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13934.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18692.ts
-#EXTINF:-1,SP: M. PARTIDAZO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13649.ts
-#EXTINF:-1,SP: M. PARTIDAZO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/9190.ts
-#EXTINF:-1,SP: M. FUTBOL HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18686.ts
-#EXTINF:-1,SP: M.  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13596.ts
-#EXTINF:-1,SP: M. FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/10.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18690.ts
-#EXTINF:-1,SP: M. DEPORTES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13600.ts
-#EXTINF:-1,SP: M.  DEPORTES 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/419.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18691.ts
-#EXTINF:-1,SP: M. DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13627.ts
-#EXTINF:-1,SP: M. DEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7197.ts
-#EXTINF:-1,SP: M. GOLF HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18689.ts
-#EXTINF:-1,SP: M. GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7202.ts
-#EXTINF:-1,SP: M. GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/11.ts
-#EXTINF:-1,SP: M. F1 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18687.ts
-#EXTINF:-1,SP: M. F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13642.ts
-#EXTINF:-1,SP: M. F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/5963.ts
-#EXTINF:-1,SP: M. MOTOGP HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/18688.ts
-#EXTINF:-1,SP:  M. MOTO GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13641.ts
-#EXTINF:-1,SP: M. MOTO GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/5962.ts
-#EXTINF:-1,SP: EUROSPORT 1 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19277.ts
-#EXTINF:-1,SP: EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13587.ts
-#EXTINF:-1,SP: EUROSPORT 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13668.ts
-#EXTINF:-1,SP: EUROSPORT 2 HD (1080)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/19278.ts
-#EXTINF:-1,SP: EUROSPORT 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13670.ts
-#EXTINF:-1,SP: BEIN LA LIGA 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13700.ts
-#EXTINF:-1,SP: LA LIGA TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13699.ts
-#EXTINF:-1,SP: LA LIGA TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13698.ts
-#EXTINF:-1,SP: LA LIGA TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13697.ts
-#EXTINF:-1,SP: LA LIGA TV 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13696.ts
-#EXTINF:-1,SP: LA LIGA TV 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13695.ts
-#EXTINF:-1,SP: LA LIGA TV 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13694.ts
-#EXTINF:-1,SP: LA LIGA TV 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13693.ts
-#EXTINF:-1,SP: BEIN MAX 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13646.ts
-#EXTINF:-1,SP: BEIN MAX 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13647.ts
-#EXTINF:-1,SP: BEIN MAX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13648.ts
-#EXTINF:-1,SP: BEIN MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13948.ts
-#EXTINF:-1,SP: BEIN MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13947.ts
-#EXTINF:-1,SP: BEIN MAX 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13946.ts
-#EXTINF:-1,SP: BEIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13945.ts
-#EXTINF:-1,SP: BEIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13944.ts
-#EXTINF:-1,SP: BEIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13943.ts
-#EXTINF:-1,SP: BEIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13942.ts
-#EXTINF:-1,SP: BEIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13941.ts
-#EXTINF:-1,SP: MULTIDEPORTES 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/16837.ts
-#EXTINF:-1,SP: MULTIDEPORTES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/16838.ts
-#EXTINF:-1,SP: MULTIDEPORTES 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/16839.ts
-#EXTINF:-1,SP: MULTIDEPORTES 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/16840.ts
-#EXTINF:-1,SP: BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/7213.ts
-#EXTINF:-1,SP: REAL MADRID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/422.ts
-#EXTINF:-1,SP: TELEDEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/oBcslqqjcx/Cwhk5Dhy3m/13917.ts
 #EXTINF:-1,#0 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/198.ts
 #EXTINF:-1,LA 1 HD
@@ -1055,242 +689,246 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/124.ts
 #EXTINF:-1,TAQUILLA_40
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/125.ts
-#EXTINF:-1,ES:Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19990.ts
-#EXTINF:-1,ES:Astro Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19989.ts
-#EXTINF:-1,ES:Astro SuperSports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19988.ts
-#EXTINF:-1,ES:Astro SuperSports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19987.ts
-#EXTINF:-1,ES:Astro SuperSports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19986.ts
-#EXTINF:-1,ES:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19985.ts
-#EXTINF:-1,ES:AXN White HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19984.ts
-#EXTINF:-1,ES:Azteca Honduras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19983.ts
-#EXTINF:-1,ES:Azteca Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19982.ts
-#EXTINF:-1,ES:Azteca Trece
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19981.ts
-#EXTINF:-1,ES:Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19980.ts
-#EXTINF:-1,ES:Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19979.ts
-#EXTINF:-1,ES:Bein LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19978.ts
-#EXTINF:-1,ES:beIN LALIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19977.ts
-#EXTINF:-1,ES:Bein Sport Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19976.ts
-#EXTINF:-1,ES:beIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19975.ts
-#EXTINF:-1,ES:BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19974.ts
-#EXTINF:-1,ES:Calle 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19973.ts
-#EXTINF:-1,ES:Canal  Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19972.ts
-#EXTINF:-1,ES:Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19971.ts
-#EXTINF:-1,ES:Canal DeCasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19970.ts
-#EXTINF:-1,ES:Canal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19969.ts
-#EXTINF:-1,ES:Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19968.ts
-#EXTINF:-1,ES:Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19967.ts
-#EXTINF:-1,ES:Cosmo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19966.ts
-#EXTINF:-1,ES:Crimen y Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19965.ts
-#EXTINF:-1,ES:Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19964.ts
-#EXTINF:-1,ES:Digi Sport 1 Hungary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19963.ts
-#EXTINF:-1,ES:Digi Sport 2 Hungary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19962.ts
-#EXTINF:-1,ES:Digi Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19961.ts
-#EXTINF:-1,ES:Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19960.ts
-#EXTINF:-1,ES:Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19959.ts
-#EXTINF:-1,ES:Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19958.ts
-#EXTINF:-1,ES:Dolce-Sport-1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19957.ts
-#EXTINF:-1,ES:Dolce-Sport-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19956.ts
-#EXTINF:-1,ES:Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19955.ts
-#EXTINF:-1,ES:EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19954.ts
-#EXTINF:-1,ES:Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19953.ts
-#EXTINF:-1,ES:FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19952.ts
-#EXTINF:-1,ES:FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19951.ts
-#EXTINF:-1,ES:FOX Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19950.ts
-#EXTINF:-1,ES:Fox Sports 1 Asia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19949.ts
-#EXTINF:-1,ES:Fox Sports 2 Asia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19948.ts
-#EXTINF:-1,ES:Fox Sports 3 Asia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19947.ts
-#EXTINF:-1,ES:Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19946.ts
-#EXTINF:-1,ES:Hollywood HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19945.ts
-#EXTINF:-1,ES:Hollywood SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19944.ts
-#EXTINF:-1,ES:la sexta HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19943.ts
-#EXTINF:-1,ES:Live Spain Las Palmas LAS CANTERAS beach
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19942.ts
-#EXTINF:-1,ES:Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19941.ts
-#EXTINF:-1,ES:Mio STADIUM 102
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19940.ts
-#EXTINF:-1,ES:Mio STADIUM 103
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19939.ts
-#EXTINF:-1,ES:Mio STADIUM 104
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19938.ts
-#EXTINF:-1,ES:Mio STADIUM 105
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19937.ts
-#EXTINF:-1,ES:Mio STADIUM 106
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19936.ts
-#EXTINF:-1,ES:Moviestar Portrada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19935.ts
-#EXTINF:-1,ES:Moviestar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19934.ts
-#EXTINF:-1,ES:Movistar  FUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19933.ts
-#EXTINF:-1,ES:Movistar Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19932.ts
-#EXTINF:-1,ES:Movistar Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19931.ts
-#EXTINF:-1,ES:Movistar DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19930.ts
-#EXTINF:-1,ES:Movistar Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19929.ts
-#EXTINF:-1,ES:Movistar F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19928.ts
-#EXTINF:-1,ES:Movistar MotoGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19927.ts
-#EXTINF:-1,ES:Movistar Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19926.ts
-#EXTINF:-1,ES:Movistar Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19925.ts
-#EXTINF:-1,ES:Movistar Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19924.ts
-#EXTINF:-1,ES:MTV espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19923.ts
-#EXTINF:-1,ES:N Cuatro HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19922.ts
-#EXTINF:-1,ES:Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19921.ts
-#EXTINF:-1,ES:National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19920.ts
-#EXTINF:-1,ES:Neox Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19919.ts
-#EXTINF:-1,ES:Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19918.ts
-#EXTINF:-1,ES:Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19917.ts
-#EXTINF:-1,ES:Odisea Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19916.ts
-#EXTINF:-1,ES:OSN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19915.ts
-#EXTINF:-1,ES:OSN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19914.ts
-#EXTINF:-1,ES:OSN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19913.ts
-#EXTINF:-1,ES:OSN SPORTS 4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19912.ts
-#EXTINF:-1,ES:OSN SPORTS CRICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19911.ts
-#EXTINF:-1,ES:Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19910.ts
-#EXTINF:-1,ES:Proyecto 40
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19909.ts
-#EXTINF:-1,ES:REAL MADRID TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19908.ts
-#EXTINF:-1,ES:RealMadrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19907.ts
-#EXTINF:-1,ES:RTVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19906.ts
-#EXTINF:-1,ES:Sevilla Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19905.ts
-#EXTINF:-1,ES:SKYNET SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19904.ts
-#EXTINF:-1,ES:SKYNET SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19903.ts
-#EXTINF:-1,ES:SKYNET SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19902.ts
-#EXTINF:-1,ES:SKYNET SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19901.ts
-#EXTINF:-1,ES:SKYNET SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19900.ts
-#EXTINF:-1,ES:SKYNET SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19899.ts
-#EXTINF:-1,ES:SKYNET SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19898.ts
-#EXTINF:-1,ES:Spain Cadiz Beach Santa Mar?a del Mar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19897.ts
-#EXTINF:-1,ES:Spain Chiclana Marina de Sancti Petri
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19896.ts
-#EXTINF:-1,ES:Spain Lloret de Mar Central beach
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19895.ts
-#EXTINF:-1,ES:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19894.ts
-#EXTINF:-1,ES:Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19893.ts
-#EXTINF:-1,ES:Taquilla 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19892.ts
-#EXTINF:-1,ES:Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19891.ts
-#EXTINF:-1,ES:Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19890.ts
-#EXTINF:-1,ES:Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19889.ts
-#EXTINF:-1,ES:Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19888.ts
-#EXTINF:-1,ES:Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19887.ts
-#EXTINF:-1,ES:Taquilla 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19886.ts
-#EXTINF:-1,ES:Taquilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19885.ts
-#EXTINF:-1,ES:Taquilla 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19884.ts
-#EXTINF:-1,ES:Telecinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19883.ts
-#EXTINF:-1,ES:Telecinco HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19882.ts
-#EXTINF:-1,ES:Telemadrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19881.ts
-#EXTINF:-1,ES:Telesur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19880.ts
-#EXTINF:-1,ES:Televisa HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19879.ts
-#EXTINF:-1,ES:TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19878.ts
-#EXTINF:-1,ES:Toros Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19877.ts
-#EXTINF:-1,ES:TV3 Catalynia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19876.ts
-#EXTINF:-1,ES:TVE Clan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19875.ts
-#EXTINF:-1,ES:TVE LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19874.ts
-#EXTINF:-1,ES:TVE LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/9yhriejhebe/Gtu62bjHk/19873.ts
+#EXTINF:-1,ES: Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15931.ts
+#EXTINF:-1,ES: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15930.ts
+#EXTINF:-1,ES: AXN White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15929.ts
+#EXTINF:-1,ES: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15928.ts
+#EXTINF:-1,ES: Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15927.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15926.ts
+#EXTINF:-1,ES: Calle 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15925.ts
+#EXTINF:-1,ES: Canal  DeCasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15924.ts
+#EXTINF:-1,ES: Canal  Deportes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15923.ts
+#EXTINF:-1,ES: Canal  Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15922.ts
+#EXTINF:-1,ES: Canal  Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15921.ts
+#EXTINF:-1,ES: Canal  Liga 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15920.ts
+#EXTINF:-1,ES: Canal Cocina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15919.ts
+#EXTINF:-1,ES: Canal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15918.ts
+#EXTINF:-1,ES: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15917.ts
+#EXTINF:-1,ES: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15916.ts
+#EXTINF:-1,ES: Cosmo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15915.ts
+#EXTINF:-1,ES: Crimen Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15914.ts
+#EXTINF:-1,ES: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15913.ts
+#EXTINF:-1,ES: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15912.ts
+#EXTINF:-1,ES: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15911.ts
+#EXTINF:-1,ES: Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15910.ts
+#EXTINF:-1,ES: Euronews Espanol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15909.ts
+#EXTINF:-1,ES: EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15908.ts
+#EXTINF:-1,ES: Factoria de Ficcion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15907.ts
+#EXTINF:-1,ES: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15906.ts
+#EXTINF:-1,ES: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15905.ts
+#EXTINF:-1,ES: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15904.ts
+#EXTINF:-1,ES: FOX Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15903.ts
+#EXTINF:-1,ES: Fox SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15902.ts
+#EXTINF:-1,ES: Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15901.ts
+#EXTINF:-1,ES: History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15900.ts
+#EXTINF:-1,ES: Hollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15899.ts
+#EXTINF:-1,ES: Hollywood SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15898.ts
+#EXTINF:-1,ES: la sexta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15897.ts
+#EXTINF:-1,ES: Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15896.ts
+#EXTINF:-1,ES: Movistar Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15895.ts
+#EXTINF:-1,ES: Movistar Cine N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15894.ts
+#EXTINF:-1,ES: Movistar Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15893.ts
+#EXTINF:-1,ES: Movistar DCine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15892.ts
+#EXTINF:-1,ES: Movistar Estrenos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15891.ts
+#EXTINF:-1,ES: Movistar F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15890.ts
+#EXTINF:-1,ES: Movistar MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15889.ts
+#EXTINF:-1,ES: Movistar Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15888.ts
+#EXTINF:-1,ES: Movistar Series Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15887.ts
+#EXTINF:-1,ES: Movistar Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15886.ts
+#EXTINF:-1,ES: MTV es
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15885.ts
+#EXTINF:-1,ES: N Cuatro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15884.ts
+#EXTINF:-1,ES: N Cuatro SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15883.ts
+#EXTINF:-1,ES: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15882.ts
+#EXTINF:-1,ES: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15881.ts
+#EXTINF:-1,ES: Neox Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15880.ts
+#EXTINF:-1,ES: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15879.ts
+#EXTINF:-1,ES: Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15878.ts
+#EXTINF:-1,ES: Odisea Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15877.ts
+#EXTINF:-1,ES: Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15876.ts
+#EXTINF:-1,ES: Proyecto 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15875.ts
+#EXTINF:-1,ES: REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15874.ts
+#EXTINF:-1,ES: RealMadrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15873.ts
+#EXTINF:-1,ES: RT Espa?ol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15872.ts
+#EXTINF:-1,ES: Salas de Cine 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15871.ts
+#EXTINF:-1,ES: Salas de Cine 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15870.ts
+#EXTINF:-1,ES: Salas de Cine 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15869.ts
+#EXTINF:-1,ES: Salas de Cine 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15868.ts
+#EXTINF:-1,ES: Salas de Cine 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15867.ts
+#EXTINF:-1,ES: Salas de Cine 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15866.ts
+#EXTINF:-1,ES: Salas de Cine 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15865.ts
+#EXTINF:-1,ES: Salas de Cine 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15864.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15863.ts
+#EXTINF:-1,ES: Taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15862.ts
+#EXTINF:-1,ES: Taquilla 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15861.ts
+#EXTINF:-1,ES: Taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15860.ts
+#EXTINF:-1,ES: Taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15859.ts
+#EXTINF:-1,ES: Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15858.ts
+#EXTINF:-1,ES: Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15857.ts
+#EXTINF:-1,ES: Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15856.ts
+#EXTINF:-1,ES: Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15855.ts
+#EXTINF:-1,ES: Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15854.ts
+#EXTINF:-1,ES: Taquilla 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15853.ts
+#EXTINF:-1,ES: Telecinco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15852.ts
+#EXTINF:-1,ES: Telecinco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15851.ts
+#EXTINF:-1,ES: Televisa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15850.ts
+#EXTINF:-1,ES: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15849.ts
+#EXTINF:-1,ES: Toros Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15848.ts
+#EXTINF:-1,ES: TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15847.ts
+#EXTINF:-1,ES: TVE 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15846.ts
+#EXTINF:-1,ES: TVE Clan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15845.ts
+#EXTINF:-1,ES: TVE LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15844.ts
+#EXTINF:-1,ES: TVE LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15843.ts
+#EXTINF:-1,ES: TVE LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15842.ts
+#EXTINF:-1,ES: TVE1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15841.ts
+#EXTINF:-1,ES: Viajar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/15840.ts
+#EXTINF:-1,SP | VIAJAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/8127.ts
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2650.ts
+#EXTINF:-1,SP | DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2651.ts
+#EXTINF:-1,SP | Taquilla3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2656.ts
+#EXTINF:-1,SP | CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2652.ts
+#EXTINF:-1,SP | ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2659.ts
+#EXTINF:-1,SP | MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2664.ts
+#EXTINF:-1,SP | Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2665.ts
+#EXTINF:-1,SP | Taquilla2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2648.ts
+#EXTINF:-1,SP | Taquilla1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2653.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2657.ts
+#EXTINF:-1,SP | NAG GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2640.ts
+#EXTINF:-1,SP | NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2641.ts
+#EXTINF:-1,SP | NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2639.ts
+#EXTINF:-1,SP | TVE LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2666.ts
+#EXTINF:-1,SP | A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2667.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2663.ts
+#EXTINF:-1,SP | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2643.ts
+#EXTINF:-1,SP | Taquilla4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://sutverduz.com:8080/live/xerdjeyf/4qXd7Oc1g3/2644.ts
 #EXTINF:-1,ES:AXN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.iptvthebest.net:15000/live/rt5gtg56u57u/365yhrynyjhy/19985.ts
 #EXTINF:-1,ES:AXN White HD
