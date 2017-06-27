@@ -7,7 +7,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/ute6sPtJOw/qy5AaASlbe/19271.ts
 #EXTINF:-1,SP: LA1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/ute6sPtJOw/qy5AaASlbe/13643.ts
-#EXTINF:-1,SP: [LA1]
+#EXTINF:-1 [LA1]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/ute6sPtJOw/qy5AaASlbe/33.ts
 #EXTINF:-1,SP: LA2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://bestiptv01.com:999/live/ute6sPtJOw/qy5AaASlbe/34.ts
